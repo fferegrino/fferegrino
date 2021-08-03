@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Estoy de vuelta - vamos a platicar](https://www.youtube.com/watch?v=ohevp5nNnPQ)
 - [¿De qué se trata la PROGRAMACIÓN?](https://www.youtube.com/watch?v=_Ymi7z8TnV4)
 - [AI superpowers: China, Silicon Valley, and the new world order | Club de lectura](https://www.youtube.com/watch?v=ZIFfUZSgI78)
 - [Snowflake | ¿El fin de tu base de datos?](https://www.youtube.com/watch?v=TTxJ7kehgRU)
 - [Datos en español, platicando con Sergio Sánchez @tacosdedatos](https://www.youtube.com/watch?v=l5s0EtdWZaM)
-- [Creando DAGs con AIRFLOW](https://www.youtube.com/watch?v=i-JRuKaxL-4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
