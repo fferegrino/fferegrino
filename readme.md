@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comentando la ApplyConf](https://www.youtube.com/watch?v=MmenJKOui7Y)
 - [Mejora tu código de DATA SCIENCE con este tip](https://www.youtube.com/watch?v=B8Ppy4RgHBg)
 - [De vuelta, vamos a platicar nomás.](https://www.youtube.com/watch?v=ohevp5nNnPQ)
 - [¿De qué se trata la PROGRAMACIÓN?](https://www.youtube.com/watch?v=_Ymi7z8TnV4)
 - [AI superpowers: China, Silicon Valley, and the new world order | Club de lectura](https://www.youtube.com/watch?v=ZIFfUZSgI78)
-- [Snowflake | ¿El fin de tu base de datos?](https://www.youtube.com/watch?v=TTxJ7kehgRU)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
