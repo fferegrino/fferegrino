@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desarrollando Python, platicando con Pablo Galindo](https://www.youtube.com/watch?v=-zxehG7kvL8)
 - [¿Qué son BUENOS DATOS? – Por un mejor machine learning](https://www.youtube.com/watch?v=7_8F57gzLZA)
 - [Comentando la ApplyConf](https://www.youtube.com/watch?v=MmenJKOui7Y)
 - [Mejora tu código de DATA SCIENCE con este tip](https://www.youtube.com/watch?v=B8Ppy4RgHBg)
 - [De vuelta, vamos a platicar nomás.](https://www.youtube.com/watch?v=ohevp5nNnPQ)
-- [¿De qué se trata la PROGRAMACIÓN?](https://www.youtube.com/watch?v=_Ymi7z8TnV4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
