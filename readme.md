@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Te cuento qué es MLOps](https://medium.com/tacosdedatos/te-cuento-qu%C3%A9-es-mlops-3409055a9741?source=rss-dc9b65f700a3------2)
-- [Unit testing with pytest](https://dev.to/fferegrino/unit-testing-with-pytest-161h)
-- [Automated dataset generation with Python](https://dev.to/fferegrino/how-to-automate-dataset-creation-with-python-171a)
-- [Plotting your Spotify data](https://dev.to/fferegrino/plotting-your-spotify-data-2km8)
-- [Creando una lambda en AWS usando python](https://dev.to/fferegrino/creando-una-lambda-en-aws-usando-pipenv-14mh)
+- [Desarrollando Python, platicando con Pablo Galindo](https://www.youtube.com/watch?v=-zxehG7kvL8)
+- [¿Qué son BUENOS DATOS? – Por un mejor machine learning](https://www.youtube.com/watch?v=7_8F57gzLZA)
+- [Comentando la ApplyConf](https://www.youtube.com/watch?v=MmenJKOui7Y)
+- [Mejora tu código de DATA SCIENCE con este tip](https://www.youtube.com/watch?v=B8Ppy4RgHBg)
+- [De vuelta, vamos a platicar nomás.](https://www.youtube.com/watch?v=ohevp5nNnPQ)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
