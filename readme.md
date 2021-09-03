@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Tratando de echar a andar mi Raspberry PI con Alexis Guijarro](https://www.youtube.com/watch?v=TjWm7OHXE-A)
 - [El jueves casual está de vuelta](https://www.youtube.com/watch?v=KqYIuoSdVqY)
 - [Desarrollando Python, platicando con Pablo Galindo](https://www.youtube.com/watch?v=-zxehG7kvL8)
 - [Preparando un post para @tacosdedatos - los decoradores en Python](https://www.youtube.com/watch?v=NXb_MWvjOIE)
 - [¿Qué son BUENOS DATOS? – Por un mejor machine learning](https://www.youtube.com/watch?v=7_8F57gzLZA)
+- [Comentando la ApplyConf](https://www.youtube.com/watch?v=MmenJKOui7Y)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
