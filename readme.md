@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jueves Casual - El regreso](https://www.youtube.com/watch?v=sbhplb3d2LM)
 - [¿Por qué no me gustó Engineering MLOps?](https://www.youtube.com/watch?v=Q3B-_36cwFo)
 - [Tratando de echar a andar mi Raspberry PI con Alexis Guijarro](https://www.youtube.com/watch?v=OaOhexpDsiU)
 - [El jueves casual está de vuelta](https://www.youtube.com/watch?v=KqYIuoSdVqY)
 - [Desarrollando Python, platicando con Pablo Galindo](https://www.youtube.com/watch?v=-zxehG7kvL8)
-- [Preparando un post para @tacosdedatos - los decoradores en Python](https://www.youtube.com/watch?v=NXb_MWvjOIE)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
