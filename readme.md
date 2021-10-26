@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning en AWS – Sus servicios](https://www.youtube.com/watch?v=M8UG_H2pqMk)
+- [Machine Learning en AWS sin ser experto](https://www.youtube.com/watch?v=M8UG_H2pqMk)
 - [Jueves Casual - El regreso](https://www.youtube.com/watch?v=sbhplb3d2LM)
 - [¿Por qué no me gustó Engineering MLOps?](https://www.youtube.com/watch?v=Q3B-_36cwFo)
 - [Tratando de echar a andar mi Raspberry PI con Alexis Guijarro](https://www.youtube.com/watch?v=OaOhexpDsiU)
