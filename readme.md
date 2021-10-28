@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Jueves Casual - Edición de cumpleaños](https://www.youtube.com/watch?v=xEGF3RhxJkg)
+- [Jueves Casual - Edición de cumpleaños](https://www.youtube.com/watch?v=mYJ8lV1fe5A)
 - [Machine Learning en AWS sin ser experto](https://www.youtube.com/watch?v=M8UG_H2pqMk)
 - [Jueves Casual - El regreso](https://www.youtube.com/watch?v=sbhplb3d2LM)
 - [¿Por qué no me gustó Engineering MLOps?](https://www.youtube.com/watch?v=Q3B-_36cwFo)
