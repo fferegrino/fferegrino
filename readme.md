@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo conseguir trabajo en Reino Unido?](https://www.youtube.com/watch?v=w702cOugMUc)
 - [Jueves Casual - Edición de cumpleaños](https://www.youtube.com/watch?v=mYJ8lV1fe5A)
 - [Machine Learning en AWS sin ser experto](https://www.youtube.com/watch?v=M8UG_H2pqMk)
 - [Jueves Casual - El regreso](https://www.youtube.com/watch?v=sbhplb3d2LM)
 - [¿Por qué no me gustó Engineering MLOps?](https://www.youtube.com/watch?v=Q3B-_36cwFo)
-- [Tratando de echar a andar mi Raspberry PI con Alexis Guijarro](https://www.youtube.com/watch?v=OaOhexpDsiU)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
