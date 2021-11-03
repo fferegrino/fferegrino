@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Cómo conseguir trabajo en Reino Unido?](https://www.youtube.com/watch?v=w702cOugMUc)
+- [¿Qué necesitas para trabajara en Reino Unido?](https://www.youtube.com/watch?v=w702cOugMUc)
 - [Jueves Casual - Edición de cumpleaños](https://www.youtube.com/watch?v=mYJ8lV1fe5A)
 - [Machine Learning en AWS sin ser experto](https://www.youtube.com/watch?v=M8UG_H2pqMk)
 - [Jueves Casual - El regreso](https://www.youtube.com/watch?v=sbhplb3d2LM)
