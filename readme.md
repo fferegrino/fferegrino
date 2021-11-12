@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Ecofascismo, antropocentrismo y desempleo tecnológico](https://www.youtube.com/watch?v=cVHAxd8VgSs)
+- [Ecofascismo, antropocentrismo y otras cosas](https://www.youtube.com/watch?v=cVHAxd8VgSs)
 - [Edge ML, machine learning en la frontera](https://www.youtube.com/watch?v=iriJeBtuW2g)
 - [Diferencias entre UK y México](https://www.youtube.com/watch?v=9lR6De8NyVA)
 - [¿Qué necesitas para trabajar en Reino Unido?](https://www.youtube.com/watch?v=w702cOugMUc)
