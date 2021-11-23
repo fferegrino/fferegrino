@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Atomic Habits y Kerbal Space Program](https://www.youtube.com/watch?v=vWrbXKyX65g)
-- [Los juguetes de AWS para aprender MACHINE LEARNING](https://www.youtube.com/watch?v=NpBWKGIWYpo)
-- [Ecofascismo, antropocentrismo y otras cosas](https://www.youtube.com/watch?v=cVHAxd8VgSs)
-- [Edge ML, machine learning en la frontera](https://www.youtube.com/watch?v=iriJeBtuW2g)
-- [Diferencias entre UK y México](https://www.youtube.com/watch?v=9lR6De8NyVA)
+- [Te cuento qué es MLOps](https://medium.com/tacosdedatos/te-cuento-qu%C3%A9-es-mlops-3409055a9741?source=rss-dc9b65f700a3------2)
+- [Unit testing with pytest](https://dev.to/fferegrino/unit-testing-with-pytest-161h)
+- [Automated dataset generation with Python](https://dev.to/fferegrino/how-to-automate-dataset-creation-with-python-171a)
+- [Plotting your Spotify data](https://dev.to/fferegrino/plotting-your-spotify-data-2km8)
+- [Creando una lambda en AWS usando python](https://dev.to/fferegrino/creando-una-lambda-en-aws-usando-pipenv-14mh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
