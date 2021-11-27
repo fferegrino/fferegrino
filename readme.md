@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tu 1er trabajo en ciencia de datos &lpar;tips&rpar;](https://www.youtube.com/watch?v=8Ko8ynK-9QM)
 - [Atomic Habits y Kerbal Space Program](https://www.youtube.com/watch?v=vWrbXKyX65g)
 - [Los juguetes de AWS para aprender MACHINE LEARNING](https://www.youtube.com/watch?v=NpBWKGIWYpo)
 - [Ecofascismo, antropocentrismo y otras cosas](https://www.youtube.com/watch?v=cVHAxd8VgSs)
 - [Edge ML, machine learning en la frontera](https://www.youtube.com/watch?v=iriJeBtuW2g)
-- [Diferencias entre UK y México](https://www.youtube.com/watch?v=9lR6De8NyVA)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
