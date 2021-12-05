@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Platicando sobre el libro Enjoy Time](https://www.youtube.com/watch?v=Cy4E9nsnVKg)
 - [Netflix y La Nube – Cómo funciona Netflix.](https://www.youtube.com/watch?v=ek3w1I1TH28)
 - [Tu 1er trabajo en ciencia de datos &lpar;tips&rpar;](https://www.youtube.com/watch?v=8Ko8ynK-9QM)
 - [Tips para tu primer trabajo en la ciencia de datos](https://feregri.no/tips-para-tu-primer-trabajo-en-la-ciencia-de-datos.html)
 - [Mejorando nuestros gráficos de barras](https://feregri.no/mejorando-nuestros-graficos-de-barras.html)
-- [Atomic Habits y Kerbal Space Program](https://www.youtube.com/watch?v=vWrbXKyX65g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
