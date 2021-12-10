@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Word2vec ilustrado](https://feregri.no/word2vec-ilustrado.html)
 - [De texto a vectores](https://feregri.no/de-texto-a-vectores.html)
 - [Introducción al análisis de texto](https://feregri.no/introduccion-al-analisis-de-texto.html)
 - [Netflix y La Nube – Cómo funciona Netflix.](https://www.youtube.com/watch?v=ek3w1I1TH28)
 - [Tu 1er trabajo en ciencia de datos &lpar;tips&rpar;](https://www.youtube.com/watch?v=8Ko8ynK-9QM)
-- [Tips para tu primer trabajo en la ciencia de datos](https://feregri.no/tips-para-tu-primer-trabajo-en-la-ciencia-de-datos.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
