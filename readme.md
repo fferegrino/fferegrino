@@ -19,9 +19,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Netflix y la ciencia de datos – Más que recomendaciones](https://www.youtube.com/watch?v=mnSso9s0bDU)
 - [Inteligencia artificial y cuántas veces me han asaltado](https://www.youtube.com/watch?v=Cy4E9nsnVKg)
-- [Word2vec ilustrado](https://feregri.no/word2vec-ilustrado.html)
-- [De texto a vectores](https://feregri.no/de-texto-a-vectores.html)
-- [Introducción al análisis de texto](https://feregri.no/introduccion-al-analisis-de-texto.html)
+- [Netflix y La Nube – Cómo funciona Netflix.](https://www.youtube.com/watch?v=ek3w1I1TH28)
+- [Tu 1er trabajo en ciencia de datos &lpar;tips&rpar;](https://www.youtube.com/watch?v=8Ko8ynK-9QM)
+- [Atomic Habits y Kerbal Space Program](https://www.youtube.com/watch?v=vWrbXKyX65g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
