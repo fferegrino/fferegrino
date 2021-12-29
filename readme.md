@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [¿Comenzando con la ciencia de datos 2022?](https://feregri.no/comenzando-con-la-ciencia-de-datos-2022.html)
 - [Netflix y la ciencia de datos – Más que recomendaciones](https://www.youtube.com/watch?v=mnSso9s0bDU)
 - [Inteligencia artificial y cuántas veces me han asaltado](https://www.youtube.com/watch?v=Cy4E9nsnVKg)
 - [Word2vec ilustrado](https://feregri.no/word2vec-ilustrado.html)
 - [De texto a vectores](https://feregri.no/de-texto-a-vectores.html)
-- [Introducción al análisis de texto](https://feregri.no/introduccion-al-analisis-de-texto.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
