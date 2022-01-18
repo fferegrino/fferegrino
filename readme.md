@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Desde casa](https://www.youtube.com/watch?v=i5HvkbI0tEk)
+- [Desde casa – martes casual](https://www.youtube.com/watch?v=i5HvkbI0tEk)
 - [¿Comenzando con la ciencia de datos 2022?](https://feregri.no/comenzando-con-la-ciencia-de-datos-2022.html)
 - [Netflix y la ciencia de datos – Más que recomendaciones](https://www.youtube.com/watch?v=mnSso9s0bDU)
 - [Inteligencia artificial y cuántas veces me han asaltado](https://www.youtube.com/watch?v=Cy4E9nsnVKg)
