@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [La maestría en Ciencia de Datos &lpar;Universidad de Glasgow&rpar; – Jueves Casual](https://www.youtube.com/watch?v=XednNroOoHs)
 - [Los planes de estudio de la ESCOM – Jueves Casual](https://www.youtube.com/watch?v=Ov1jjf2lf3Y)
 - [Un sandwich en migración](https://feregri.no/un-sandwich-en-migracion.html)
 - [Desde casa – martes casual](https://www.youtube.com/watch?v=i5HvkbI0tEk)
 - [¿Comenzando con la ciencia de datos 2022?](https://feregri.no/comenzando-con-la-ciencia-de-datos-2022.html)
-- [Netflix y la ciencia de datos – Más que recomendaciones](https://www.youtube.com/watch?v=mnSso9s0bDU)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
