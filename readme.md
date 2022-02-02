@@ -18,10 +18,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Servicios de streaming y recomendaciones de series](https://www.youtube.com/watch?v=pykH47zfYJI)
-- [Hablando sobre mi maestría](https://www.youtube.com/watch?v=XednNroOoHs)
-- [¿Aprendiendo DATA SCIENCE en 2022? - Mis consejos](https://www.youtube.com/watch?v=c4GOspQl3Zs)
-- [Haciendo Web Scraping desde Gitlab](https://feregri.no/haciendo-web-scraping-desde-gitlab-es.html)
-- [Los planes de estudio de la ESCOM – Jueves Casual](https://www.youtube.com/watch?v=Ov1jjf2lf3Y)
+- [Configurando GitHub Actions – Bot con AWS Lambda: P6](https://feregri.no/lambda-tweet-parte-6-github-actions)
+- [Infraestructura con Terraform – Bot con AWS Lambda: P5](https://feregri.no/lambda-tweet-parte-5-terraform)
+- [Dockerizando el código – Bot con AWS Lambda: P4](https://feregri.no/lambda-tweet-parte-4-contenedor-lambda)
+- [Mapas con GeoPandas – Bot con AWS Lambda: P3](https://feregri.no/lambda-tweet-parte-3-mapas-geopandas)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
