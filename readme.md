@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Servicios de streaming y recomendaciones de series](https://www.youtube.com/watch?v=pykH47zfYJI)
 - [Hablando sobre mi maestría](https://www.youtube.com/watch?v=XednNroOoHs)
 - [¿Aprendiendo DATA SCIENCE en 2022? - Mis consejos](https://www.youtube.com/watch?v=c4GOspQl3Zs)
 - [Haciendo Web Scraping desde Gitlab](https://feregri.no/haciendo-web-scraping-desde-gitlab-es.html)
 - [Los planes de estudio de la ESCOM – Jueves Casual](https://www.youtube.com/watch?v=Ov1jjf2lf3Y)
-- [Un sandwich en migración](https://feregri.no/un-sandwich-en-migracion.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
