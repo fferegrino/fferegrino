@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Servicios de streaming y recomendaciones de series](https://www.youtube.com/watch?v=pykH47zfYJI)
+- [Recomendaciones de series - Jueves Casual](https://www.youtube.com/watch?v=pykH47zfYJI)
 - [Configurando GitHub Actions – Bot con AWS Lambda: P6](https://feregri.no/lambda-tweet-parte-6-github-actions)
 - [Infraestructura con Terraform – Bot con AWS Lambda: P5](https://feregri.no/lambda-tweet-parte-5-terraform)
 - [Dockerizando el código – Bot con AWS Lambda: P4](https://feregri.no/lambda-tweet-parte-4-contenedor-lambda)
