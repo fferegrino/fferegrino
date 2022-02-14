@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Armando el NASA Space Shuttle de Lego](https://www.youtube.com/watch?v=9p__3sDQSlM)
-- [De experimentos y quasi experimentos](https://www.youtube.com/watch?v=w41NgzmrcX0)
-- [¿Cómo sabe Netflix qué películas te gustan? &lpar;Sistemas de recomendación&rpar;](https://www.youtube.com/watch?v=QTtvTabxbKk)
-- [Recomendaciones de series - Jueves Casual](https://www.youtube.com/watch?v=pykH47zfYJI)
-- [Configurando GitHub Actions – Bot con AWS Lambda: P6](https://feregri.no/lambda-tweet-parte-6-github-actions)
+- [Configuring GitHub Actions – Tweeting from a lambda](https://dev.to/fferegrino/configuring-github-actions-tweeting-from-a-lambda-bii)
+- [Infrastructure with Terraform – Tweeting from a lambda](https://dev.to/fferegrino/infrastructure-with-terraform-tweeting-from-a-lambda-1ael)
+- [Dockerising a lambda – Tweeting from a lambda](https://dev.to/fferegrino/dockerising-a-lambda-tweeting-from-a-lambda-c2k)
+- [Maps with GeoPandas – Tweeting from a lambda](https://dev.to/fferegrino/maps-with-geopandas-tweeting-from-a-lambda-81k)
+- [Programming the lambda – Tweeting from a lambda](https://dev.to/fferegrino/programming-the-lambda-tweeting-from-a-lambda-3d7h)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
