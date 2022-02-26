@@ -1,21 +1,17 @@
-<h1 align="center">Hi 🤗, I'm Antonio Feregrino</h1>
-<h3 align="center">Data, Software & ML engineer</h3>
+<h1 align="center">I'm Antonio Feregrino</h1>
+<h2 align="center">Data, Software & ML engineer</h2>
 
-<p align="left"> <a href="https://twitter.com/io_exception" target="blank"><img src="https://img.shields.io/twitter/follow/io_exception?logo=twitter&style=for-the-badge" alt="io_exception" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/io_exception" target="blank">
+    <img src="https://img.shields.io/twitter/follow/io_exception?logo=twitter&style=for-the-badge" alt="io_exception" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC8KCb358oioQMcJ5pUfs8UQ" target="blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC8KCb358oioQMcJ5pUfs8UQ?logo=youtube&style=for-the-badge" alt="io_exception" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [my community](https://youtube.com/thatcsharpguy)
+## Recent posts
 
-- 🌱 I’m currently learning **how to create awesome MLOps solutions**
-
-- 🤝 I’m looking for help with [TechLingo](https://github.com/fferegrino/techlingo.fyi/)
-
-- 📝 I regularly write articles on [https://feregri.no](https://feregri.no)
-
-- 💬 Ask me about **machine learning in production and software best practises**
-
-- 📫 How to reach me **@io_exception on Twitter**
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [¿Data lake o data warehouse? ¿Cuál necesitas?](https://www.youtube.com/watch?v=1FnVrVCRbsI)
 - [Optimizando Docker – Bot con AWS Lambda: P8](https://feregri.no/lambda-tweet-parte-8-aligerando-docker)
@@ -23,6 +19,11 @@
 - [Configuring GitHub Actions – Tweeting from a lambda](https://dev.to/fferegrino/configuring-github-actions-tweeting-from-a-lambda-bii)
 - [Infrastructure with Terraform – Tweeting from a lambda](https://dev.to/fferegrino/infrastructure-with-terraform-tweeting-from-a-lambda-1ael)
 <!-- BLOG-POST-LIST:END -->
+
+## Some of my work
+
+ - **Curso de introducción a Machine Learning** an introductory course to machine learning I did for códigofacilito – [Link](https://codigofacilito.com/cursos/ml-)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
