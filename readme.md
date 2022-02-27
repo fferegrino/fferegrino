@@ -22,10 +22,16 @@
 
 ## Some of my work
 
- - **Curso de introducción a Machine Learning** an introductory course to machine learning I did for códigofacilito – [Link](https://codigofacilito.com/cursos/ml-)
+ - **Curso de introducción a Machine Learning** an introductory course to machine learning I did for códigofacilito – [Link](https://codigofacilito.com/cursos/ml-introduccion)
+ - **Curso de fundamentos de datos** a data fundamentals course I ran in my YouTube channel – [Link](https://www.youtube.com/playlist?list=PL6cBnnS2SIgrIUumF2WDTDIiH_lODkLGq)
+ - **techlingo.fyi** a crowdsourced website where the technological lingo is distilled – [Link](https://github.com/fferegrino/techlingo.fyi)
+ - **latimes** a CLI tool to convert time across timezones – [Link](https://github.com/thatcsharpguy/latimes)
+ - **lockdown** a static webpage generator written entirely in C# – [Link](https://github.com/lockdownblog/lockdown)
+ - **@CyclesLondon** a Twitter bot that updates on the status of the London Cycle Network – [Link](https://twitter.com/CyclesLondon) • [Source](https://github.com/fferegrino/tweeting-cycles-lambda)
+ - **@no_fkn_thanks** a Twitter bot that comes up with names for dumb NFT projects (aka scams) – [Link](https://twitter.com/no_fkn_thanks) • [Source](https://github.com/fferegrino/not-fkn-thanks)
 
+## Find me online
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/fferegrino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fferegrino" height="30" width="40" /></a>
 <a href="https://twitter.com/io_exception" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="io_exception" height="30" width="40" /></a>
