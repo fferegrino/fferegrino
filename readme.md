@@ -31,6 +31,8 @@
  - **@CyclesLondon** a Twitter bot that updates on the status of the London Cycle Network – [Link](https://twitter.com/CyclesLondon) • [Source](https://github.com/fferegrino/tweeting-cycles-lambda) • [Posts (ES)](https://feregri.no/lambda-tweet-parte-1-github-aws-twitter/) • [Posts (EN)](https://dev.to/fferegrino/configuring-twitter-aws-and-github-tweeting-from-a-lambda-4956)
  - **@no_fkn_thanks** a Twitter bot that comes up with names for dumb NFT projects (aka scams) – [Link](https://twitter.com/no_fkn_thanks) • [Source](https://github.com/fferegrino/not-fkn-thanks)
 
+Additionally, [I write in dev.to](https://dev.to/fferegrino) mostly in english, sometimes I also [publish my work in Tacos De Datos](https://www.tacosdedatos.com/ioexception) and, and lastly in [my personal blog](https://feregri.no/).
+
 ## Talks and collaborations
 
  - **Herramientas para trabajar con Python en Equipos** a talk I gave at PyCon Latam 2021 – [Link](https://www.youtube.com/watch?v=Btfx9kAE404)
