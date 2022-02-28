@@ -1,7 +1,8 @@
-<h1 align="center">I'm Antonio Feregrino</h1>
-<h2 align="center">Data, Software & ML engineer</h2>
 
-<p align="center">
+# Antonio Feregrino
+ ### Data + software + machine learning engineer
+
+<p>
   <a href="https://twitter.com/io_exception" target="blank">
     <img src="https://img.shields.io/twitter/follow/io_exception?logo=twitter&style=for-the-badge" alt="io_exception" />
   </a>
@@ -10,7 +11,7 @@
   </a>
 </p>
 
-## Recent posts
+## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
 - [¿Data lake o data warehouse? ¿Cuál necesitas?](https://www.youtube.com/watch?v=1FnVrVCRbsI)
@@ -22,14 +23,12 @@
 
 ## Some of my work
 
-(Though most of it is in spanish)
-
  - **Curso de introducción a Machine Learning** an introductory course to machine learning I did for códigofacilito – [Link](https://codigofacilito.com/cursos/ml-introduccion)
  - **Curso de fundamentos de datos** a data fundamentals course I ran in my YouTube channel – [Link](https://www.youtube.com/playlist?list=PL6cBnnS2SIgrIUumF2WDTDIiH_lODkLGq)
  - **techlingo.fyi** a crowdsourced website where the technological lingo is distilled – [Link](https://github.com/fferegrino/techlingo.fyi)
  - **latimes** a CLI tool to convert time across timezones, I coded it entirely live on YouTube – [Link](https://github.com/thatcsharpguy/latimes • [Live coding](https://www.youtube.com/playlist?list=PL6cBnnS2SIgr6u1_qau_d3JAC0mI98uqd)
- - **lockdown** a static webpage generator written entirely in C# – [Link](https://github.com/lockdownblog/lockdown) • [Blog post](http://thatcsharpguy.com/post/creating-a-dotnet-tool-part-1)
- - **@CyclesLondon** a Twitter bot that updates on the status of the London Cycle Network – [Link](https://twitter.com/CyclesLondon) • [Source](https://github.com/fferegrino/tweeting-cycles-lambda)
+ - **lockdown** a static webpage generator written entirely in C# – [Link](https://github.com/lockdownblog/lockdown) • [Blog post (EN)](http://thatcsharpguy.com/post/creating-a-dotnet-tool-part-1) • [Live coding](https://www.youtube.com/playlist?list=PL6cBnnS2SIgqSr7rI6wprQ8GSmNobkYIH)
+ - **@CyclesLondon** a Twitter bot that updates on the status of the London Cycle Network – [Link](https://twitter.com/CyclesLondon) • [Source](https://github.com/fferegrino/tweeting-cycles-lambda) • [Posts (ES)](https://feregri.no/lambda-tweet-parte-1-github-aws-twitter/) • [Posts (EN)](https://dev.to/fferegrino/configuring-twitter-aws-and-github-tweeting-from-a-lambda-4956)
  - **@no_fkn_thanks** a Twitter bot that comes up with names for dumb NFT projects (aka scams) – [Link](https://twitter.com/no_fkn_thanks) • [Source](https://github.com/fferegrino/not-fkn-thanks)
 
 ## Talks and collaborations
@@ -37,6 +36,7 @@
  - **Herramientas para trabajar con Python en Equipos** a talk I gave at PyCon Latam 2021 – [Link](https://www.youtube.com/watch?v=Btfx9kAE404)
  - **¿Cómo comenzar con Machine Learning?** a friendly chat about machine learning with Hector de León – [Link](https://www.youtube.com/watch?v=ofOj7Ox6dgo)
  - **That C# and Python Guy** a casual chat with my pals at The Dojo MX – [Link](https://www.youtube.com/watch?v=LSxeTes48-g)
+ - **tacos de contenido en español** a chat with Sergio from Tacos De Datos on why is it important for me to create content in spanish – [Link](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kYjM5ZDM4L3BvZGNhc3QvcnNz/episode/MzMwMTU5NWQtMDU3ZS00Y2I1LTk4ZDMtM2FjNTQyYzdjZGFi)
 
 ## Find me online
 
@@ -47,4 +47,3 @@
 <a href="https://medium.com/@antonio.feregrino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@antonio.feregrino" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/thatcsharpguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/thatcsharpguy" height="30" width="40" /></a>
 </p>
-
