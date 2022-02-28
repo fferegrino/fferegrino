@@ -46,6 +46,8 @@ Additionally, [I write in dev.to](https://dev.to/fferegrino) (mostly in english)
 
 ## Find me online
 
+I am open to speak at your meetup or conference, both in english and spanish – about anything you see above or similar topics.
+
 <p align="left">
 <a href="https://dev.to/fferegrino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fferegrino" height="30" width="40" /></a>
 <a href="https://twitter.com/io_exception" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="io_exception" height="30" width="40" /></a>
