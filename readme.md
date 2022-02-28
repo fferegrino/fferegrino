@@ -55,3 +55,6 @@ I am open to speak at your meetup or conference, both in english and spanish –
 <a href="https://medium.com/@antonio.feregrino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@antonio.feregrino" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/thatcsharpguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/thatcsharpguy" height="30" width="40" /></a>
 </p>
+
+Email: antonio.feregrino@gmail.com
+
