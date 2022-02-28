@@ -26,12 +26,16 @@
  - **Curso de introducción a Machine Learning** an introductory course to machine learning I did for códigofacilito – [Link](https://codigofacilito.com/cursos/ml-introduccion)
  - **Curso de fundamentos de datos** a data fundamentals course I ran in my YouTube channel – [Link](https://www.youtube.com/playlist?list=PL6cBnnS2SIgrIUumF2WDTDIiH_lODkLGq)
  - **techlingo.fyi** a crowdsourced website where the technological lingo is distilled – [Link](https://github.com/fferegrino/techlingo.fyi)
- - **latimes** a CLI tool to convert time across timezones, I coded it entirely live on YouTube – [Link](https://github.com/thatcsharpguy/latimes • [Live coding](https://www.youtube.com/playlist?list=PL6cBnnS2SIgr6u1_qau_d3JAC0mI98uqd)
+ - **latimes** a CLI tool to convert time across timezones, I coded it entirely live on YouTube – [Link](https://github.com/thatcsharpguy/latimes) • [Live coding](https://www.youtube.com/playlist?list=PL6cBnnS2SIgr6u1_qau_d3JAC0mI98uqd)
  - **lockdown** a static webpage generator written entirely in C# – [Link](https://github.com/lockdownblog/lockdown) • [Blog post (EN)](http://thatcsharpguy.com/post/creating-a-dotnet-tool-part-1) • [Live coding](https://www.youtube.com/playlist?list=PL6cBnnS2SIgqSr7rI6wprQ8GSmNobkYIH)
  - **@CyclesLondon** a Twitter bot that updates on the status of the London Cycle Network – [Link](https://twitter.com/CyclesLondon) • [Source](https://github.com/fferegrino/tweeting-cycles-lambda) • [Posts (ES)](https://feregri.no/lambda-tweet-parte-1-github-aws-twitter/) • [Posts (EN)](https://dev.to/fferegrino/configuring-twitter-aws-and-github-tweeting-from-a-lambda-4956)
  - **@no_fkn_thanks** a Twitter bot that comes up with names for dumb NFT projects (aka scams) – [Link](https://twitter.com/no_fkn_thanks) • [Source](https://github.com/fferegrino/not-fkn-thanks)
+ - **mind-the-gap** a TFL API client (an a CLI) to interact with the Transport for London API – [Source](https://gitlab.com/fferegrino/mind-the-gap)
+ - **editing-pal** a CLI tool I use to download content from the internet (videos, pictures, svgs) from a variety of sources – [Source](https://gitlab.com/thatcsharpguy/streaming/video/editing-pal)
+ - **mañaneras** project to automatically create a (and upload to Kaggle) dataset by scraping a government website – [Source](https://gitlab.com/thatcsharpguy/datasets/mananeras) • [Post (ES)](https://feregri.no/haciendo-web-scraping-desde-gitlab-es)
+ - **notion-scripting** an HTTP-based teleprompter that downloads content from a Notion account – [Source](https://gitlab.com/fferegrino/notion-scripting)
 
-Additionally, [I write in dev.to](https://dev.to/fferegrino) mostly in english, sometimes I also [publish my work in Tacos De Datos](https://www.tacosdedatos.com/ioexception) and, and lastly in [my personal blog](https://feregri.no/).
+Additionally, [I write in dev.to](https://dev.to/fferegrino) (mostly in english), sometimes I also [publish my work in Tacos De Datos](https://www.tacosdedatos.com/ioexception) and, and lastly in [my personal blog](https://feregri.no/).
 
 ## Talks and collaborations
 
