@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Platicando con Cynthia Castillo &lpar;La Matemaga de R&rpar;](https://www.youtube.com/watch?v=zKUfRd7SqRc)
+- [Platicando con Cynthia Castillo &lpar;La Matemaga de R&rpar;](https://www.youtube.com/watch?v=YULADxPDxao)
 - [¿Data lake o data warehouse? ¿Cuál necesitas?](https://www.youtube.com/watch?v=1FnVrVCRbsI)
 - [Optimizando Docker – Bot con AWS Lambda: P8](https://feregri.no/lambda-tweet-parte-8-aligerando-docker)
 - [Agregando pruebas con Pytest – Bot con AWS Lambda: P7](https://feregri.no/lambda-tweet-parte-7-add-testing)
-- [Configuring GitHub Actions – Tweeting from a lambda](https://dev.to/fferegrino/configuring-github-actions-tweeting-from-a-lambda-bii)
-- [Infrastructure with Terraform – Tweeting from a lambda](https://dev.to/fferegrino/infrastructure-with-terraform-tweeting-from-a-lambda-1ael)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
