@@ -34,6 +34,7 @@
  - **editing-pal** a CLI tool I use to download content from the internet (videos, pictures, svgs) from a variety of sources – [Source](https://gitlab.com/thatcsharpguy/streaming/video/editing-pal)
  - **mañaneras** project to automatically create a (and upload to Kaggle) dataset by scraping a government website – [Source](https://gitlab.com/thatcsharpguy/datasets/mananeras) • [Post (ES)](https://feregri.no/haciendo-web-scraping-desde-gitlab-es)
  - **notion-scripting** an HTTP-based teleprompter that downloads content from a Notion account – [Source](https://gitlab.com/fferegrino/notion-scripting)
+ - **voltorb-flip** A Python-based version of a minigame available in some Pokémon games. – [Source](https://github.com/fferegrino/voltorb-flip)
 
 Additionally, [I write in dev.to](https://dev.to/fferegrino) (mostly in english), sometimes I also [publish my work in Tacos De Datos](https://www.tacosdedatos.com/ioexception) and, and lastly in [my personal blog](https://feregri.no/).
 
