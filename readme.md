@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Guías de estilo – Bot con AWS Lambda: P9](https://feregri.no/lambda-tweet-parte-9-guia-estilo)
 - [Las aplicaciones de 12 FACTORES para un mejor desarrollo](https://www.youtube.com/watch?v=DfUJkaM42gI)
 - [Platicando con Cynthia Castillo &lpar;La Matemaga de R&rpar;](https://www.youtube.com/watch?v=zKUfRd7SqRc)
 - [¿Data lake o data warehouse? ¿Cuál necesitas?](https://www.youtube.com/watch?v=1FnVrVCRbsI)
 - [Optimizando Docker – Bot con AWS Lambda: P8](https://feregri.no/lambda-tweet-parte-8-aligerando-docker)
-- [Agregando pruebas con Pytest – Bot con AWS Lambda: P7](https://feregri.no/lambda-tweet-parte-7-add-testing)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
