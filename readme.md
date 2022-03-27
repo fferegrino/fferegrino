@@ -17,8 +17,8 @@
 - [Recuperándome del covivi](https://www.youtube.com/watch?v=vpYYpoeOQIg)
 - [Platicando con Miguel Raz, conocedor de Julia](https://www.youtube.com/watch?v=aVXRiMhLYHg)
 - [Platicando con Cynthia Castillo &lpar;La Matemaga de R&rpar;](https://www.youtube.com/watch?v=zKUfRd7SqRc)
-- [Guías de estilo – Bot con AWS Lambda: P9](https://feregri.no/lambda-tweet-parte-9-guia-estilo)
 - [Las aplicaciones de 12 FACTORES para un mejor desarrollo](https://www.youtube.com/watch?v=DfUJkaM42gI)
+- [¿Data lake o data warehouse? ¿Cuál necesitas?](https://www.youtube.com/watch?v=1FnVrVCRbsI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
