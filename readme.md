@@ -30,6 +30,7 @@
  - **lockdown** a static webpage generator written entirely in C# – [Link](https://github.com/lockdownblog/lockdown) • [Blog post (EN)](http://thatcsharpguy.com/post/creating-a-dotnet-tool-part-1) • [Live coding](https://www.youtube.com/playlist?list=PL6cBnnS2SIgqSr7rI6wprQ8GSmNobkYIH)
  - **@CyclesLondon** a Twitter bot that updates on the status of the London Cycle Network – [Link](https://twitter.com/CyclesLondon) • [Source](https://github.com/fferegrino/tweeting-cycles-lambda) • [Posts (ES)](https://feregri.no/lambda-tweet-parte-1-github-aws-twitter/) • [Posts (EN)](https://dev.to/fferegrino/configuring-twitter-aws-and-github-tweeting-from-a-lambda-4956)
  - **@no_fkn_thanks** a Twitter bot that comes up with names for dumb NFT projects (aka scams) – [Link](https://twitter.com/no_fkn_thanks) • [Source](https://github.com/fferegrino/not-fkn-thanks)
+ - **@TuiterTech** a Twitter bot that tweets messages created by a fine-tuned HuggingFace model – [Link](https://twitter.com/TuiterTech) • [Source](https://github.com/fferegrino/tuiterx)
  - **mind-the-gap** a TFL API client (an a CLI) to interact with the Transport for London API – [Source](https://gitlab.com/fferegrino/mind-the-gap)
  - **editing-pal** a CLI tool I use to download content from the internet (videos, pictures, svgs) from a variety of sources – [Source](https://gitlab.com/thatcsharpguy/streaming/video/editing-pal)
  - **mañaneras** project to automatically create a (and upload to Kaggle) dataset by scraping a government website – [Source](https://gitlab.com/thatcsharpguy/datasets/mananeras) • [Post (ES)](https://feregri.no/haciendo-web-scraping-desde-gitlab-es)
@@ -44,6 +45,7 @@ Additionally, [I write in dev.to](https://dev.to/fferegrino) (mostly in english)
  - **¿Cómo comenzar con Machine Learning?** a friendly chat about machine learning with Hector de León – [Link](https://www.youtube.com/watch?v=ofOj7Ox6dgo)
  - **That C# and Python Guy** a casual chat with my pals at The Dojo MX – [Link](https://www.youtube.com/watch?v=LSxeTes48-g)
  - **tacos de contenido en español** a chat with Sergio from Tacos De Datos on why is it important for me to create content in spanish – [Link](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9kYjM5ZDM4L3BvZGNhc3QvcnNz/episode/MzMwMTU5NWQtMDU3ZS00Y2I1LTk4ZDMtM2FjNTQyYzdjZGFi)
+ - **Desede latinoamérica a inglaterra** a chat with Randy Valverde talking about my experiences in UK, jobs opportunities here and more – [Link](https://www.youtube.com/watch?v=jx90ZAfu2-U)
 
 ## Find me online
 
