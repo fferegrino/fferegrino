@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Platicando con Sagrario Meneses &lpar;PHP connoisseur&rpar;](https://www.youtube.com/watch?v=u4F2qwKSInc)
+- [Platicando con Sagrario Meneses](https://www.youtube.com/watch?v=_vTDdJC_GRw)
 - [Recuperándome del covivi](https://www.youtube.com/watch?v=vpYYpoeOQIg)
 - [Platicando con Miguel Raz, conocedor de Julia](https://www.youtube.com/watch?v=aVXRiMhLYHg)
 - [Platicando con Cynthia Castillo &lpar;La Matemaga de R&rpar;](https://www.youtube.com/watch?v=zKUfRd7SqRc)
