@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Es ir a la UNIVERSIDAD el PEOR ERROR?](https://www.youtube.com/watch?v=Y0Qs7vMOHis)
+- [¿Es ir a la UNIVERSIDAD el PEOR ERROR? respuesta a @Facundo García Martoni](https://www.youtube.com/watch?v=Y0Qs7vMOHis)
 - [Platicando con Héctor de León, el loco de los perros](https://www.youtube.com/watch?v=kNaUJbD1QFc)
 - [Platicando con Sagrario Meneses](https://www.youtube.com/watch?v=_vTDdJC_GRw)
 - [Recuperándome del covivi](https://www.youtube.com/watch?v=vpYYpoeOQIg)
