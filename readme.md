@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [My visit to India](https://feregri.no/my-visit-to-india)
 - [Mi visita a la India](https://feregri.no/mi-visita-a-la-india)
 - [De JUNIOR a SENIOR, ¿qué tengo que hacer?](https://www.youtube.com/watch?v=EzjOBU1kNpE)
 - [¿Ir a la UNIVERSIDAD el PEOR ERROR? respuesta a @Facundo García Martoni](https://www.youtube.com/watch?v=Y0Qs7vMOHis)
 - [Platicando con Héctor de León @hdeleon.net , el loco de los perros](https://www.youtube.com/watch?v=kNaUJbD1QFc)
-- [Platicando con Sagrario Meneses](https://www.youtube.com/watch?v=_vTDdJC_GRw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
