@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Mi visita a India - Jueves Casual](https://www.youtube.com/watch?v=Pab8y4fcdtU)
+- [Mi visita a India](https://www.youtube.com/watch?v=Pab8y4fcdtU)
 - [My visit to India](https://feregri.no/my-visit-to-india)
 - [Mi visita a la India](https://feregri.no/mi-visita-a-la-india)
 - [De JUNIOR a SENIOR, ¿qué tengo que hacer?](https://www.youtube.com/watch?v=EzjOBU1kNpE)
