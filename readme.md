@@ -17,8 +17,8 @@
 - [De la guerra, Reddit y publicando en Medium – Jueves Casual](https://www.youtube.com/watch?v=zcQgQ80B-to)
 - [¿Infraestructure as Code? ¿Infraestructure as Data? ¿Terraform?](https://www.youtube.com/watch?v=LxcB5IMgSts)
 - [Mi visita a India](https://www.youtube.com/watch?v=Pab8y4fcdtU)
-- [De JUNIOR a SENIOR, ¿qué tengo que hacer?](https://www.youtube.com/watch?v=EzjOBU1kNpE)
-- [¿Ir a la UNIVERSIDAD el PEOR ERROR? respuesta a @Facundo García Martoni](https://www.youtube.com/watch?v=Y0Qs7vMOHis)
+- [My visit to India](https://feregri.no/my-visit-to-india)
+- [Mi visita a la India](https://feregri.no/mi-visita-a-la-india)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
