@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [De la guerra, Reddit y publicando en Medium – Jueves Casual](https://www.youtube.com/watch?v=zcQgQ80B-to)
+- [Random, de la guerra, Reddit y publicando en Medium](https://www.youtube.com/watch?v=zcQgQ80B-to)
 - [¿Infraestructure as Code? ¿Infraestructure as Data? ¿Terraform?](https://www.youtube.com/watch?v=LxcB5IMgSts)
 - [Mi visita a India](https://www.youtube.com/watch?v=Pab8y4fcdtU)
 - [My visit to India](https://feregri.no/my-visit-to-india)
