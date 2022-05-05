@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [De la guerra, Reddit y publicando en Medium – Jueves Casual](https://www.youtube.com/watch?v=zcQgQ80B-to)
-- [¿Infraestructure as Code? ¿Infraestructure as Data? ¿Terraform?](https://www.youtube.com/watch?v=LxcB5IMgSts)
-- [Mi visita a India](https://www.youtube.com/watch?v=Pab8y4fcdtU)
 - [My visit to India](https://feregri.no/my-visit-to-india)
 - [Mi visita a la India](https://feregri.no/mi-visita-a-la-india)
+- [Optimizando Docker – Bot con AWS Lambda: P8](https://feregri.no/lambda-tweet-parte-8-aligerando-docker)
+- [Agregando pruebas con Pytest – Bot con AWS Lambda: P7](https://feregri.no/lambda-tweet-parte-7-add-testing)
+- [Configuring GitHub Actions – Tweeting from a lambda](https://dev.to/fferegrino/configuring-github-actions-tweeting-from-a-lambda-bii)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
