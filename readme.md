@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Random, de la guerra, Reddit y publicando en Medium](https://www.youtube.com/watch?v=zcQgQ80B-to)
 - [Plot Millions of Reddit Comments](https://medium.com/dataandsets/plot-millions-of-reddit-comments-7b0928924969?source=rss-dc9b65f700a3------2)
 - [Download Data From Reddit Using Python](https://medium.com/dataandsets/download-data-from-reddit-using-python-67250ab55d8?source=rss-dc9b65f700a3------2)
 - [¿Infraestructure as Code? ¿Infraestructure as Data? ¿Terraform?](https://www.youtube.com/watch?v=LxcB5IMgSts)
 - [Mi visita a India](https://www.youtube.com/watch?v=Pab8y4fcdtU)
-- [My visit to India](https://feregri.no/my-visit-to-india)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
