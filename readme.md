@@ -32,15 +32,17 @@
  - **@no_fkn_thanks** a Twitter bot that comes up with names for dumb NFT projects (aka scams) – [Link](https://twitter.com/no_fkn_thanks) • [Source](https://github.com/fferegrino/not-fkn-thanks)
  - **@TuiterTech** a Twitter bot that tweets messages created by a fine-tuned HuggingFace model – [Link](https://twitter.com/TuiterTech) • [Source](https://github.com/fferegrino/tuiterx)
  - **mind-the-gap** a TFL API client (an a CLI) to interact with the Transport for London API – [Source](https://gitlab.com/fferegrino/mind-the-gap)
- - **editing-pal** a CLI tool I use to download content from the internet (videos, pictures, svgs) from a variety of sources – [Source](https://gitlab.com/thatcsharpguy/streaming/video/editing-pal)
+ - **london-cycles-db** A scritp to download and save data about the London's cycle network – [Source](https://github.com/fferegrino/london-cycles-db)
+ - **asset-downloader** a CLI tool I use to download content from the internet (videos, pictures, svgs) from a variety of sources – [Source](https://gitlab.com/thatcsharpguy/streaming/video/editing-pal)
  - **mañaneras** project to automatically create a (and upload to Kaggle) dataset by scraping a government website – [Source](https://gitlab.com/thatcsharpguy/datasets/mananeras) • [Post (ES)](https://feregri.no/haciendo-web-scraping-desde-gitlab-es)
- - **notion-scripting** an HTTP-based teleprompter that downloads content from a Notion account – [Source](https://gitlab.com/fferegrino/notion-scripting)
+ - **nprompter** an HTTP-based teleprompter that downloads content from a Notion account – [Source](https://gitlab.com/fferegrino/notion-scripting)
  - **voltorb-flip** A Python-based version of a minigame available in some Pokémon games. – [Source](https://github.com/fferegrino/voltorb-flip)
 
 Additionally, [I write in dev.to](https://dev.to/fferegrino) (mostly in english), sometimes I also [publish my work in Tacos De Datos](https://www.tacosdedatos.com/ioexception) and, and lastly in [my personal blog](https://feregri.no/).
 
 ## Talks and collaborations
 
+ - **I interview a lot of interesting people**, see the playlist on YouTube – [Link](https://youtube.com/playlist?list=PL6cBnnS2SIgqgBNZtcNSbQCtu0imAypEz)
  - **Herramientas para trabajar con Python en Equipos** a talk I gave at PyCon Latam 2021 – [Link](https://www.youtube.com/watch?v=Btfx9kAE404)
  - **¿Cómo comenzar con Machine Learning?** a friendly chat about machine learning with Hector de León – [Link](https://www.youtube.com/watch?v=ofOj7Ox6dgo)
  - **That C# and Python Guy** a casual chat with my pals at The Dojo MX – [Link](https://www.youtube.com/watch?v=LSxeTes48-g)
