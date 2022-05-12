@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Jueves Casual – De la escuela, tecnosoluciones y DuckTales](https://www.youtube.com/watch?v=vzTRjHzmmCE)
+- [DuckTales - Por qué ya no hay genios y tecnosoluciones](https://www.youtube.com/watch?v=vzTRjHzmmCE)
 - [Machine learning para editar videos, platicando con Cristóbal Valenzuela](https://www.youtube.com/watch?v=u92NLvUI2_Q)
 - [Random, de la guerra, Reddit y publicando en Medium](https://www.youtube.com/watch?v=zcQgQ80B-to)
 - [Plot Millions of Reddit Comments](https://medium.com/dataandsets/plot-millions-of-reddit-comments-7b0928924969?source=rss-dc9b65f700a3------2)
