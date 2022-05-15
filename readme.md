@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualising a week of the London Cycle Network](https://medium.com/dataandsets/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
+- [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/dataandsets/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
 - [DuckTales - Por qué ya no hay genios y tecnosoluciones](https://www.youtube.com/watch?v=vzTRjHzmmCE)
 - [Machine learning para editar videos, platicando con Cristóbal Valenzuela](https://www.youtube.com/watch?v=u92NLvUI2_Q)
 - [Random, de la guerra, Reddit y publicando en Medium](https://www.youtube.com/watch?v=zcQgQ80B-to)
