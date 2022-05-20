@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Descarga de datos de Reddit](https://feregri.no/descarga-de-datos-de-reddit)
 - [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/dataandsets/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
 - [DuckTales - Por qué ya no hay genios y tecnosoluciones](https://www.youtube.com/watch?v=vzTRjHzmmCE)
 - [Machine learning para editar videos, platicando con Cristóbal Valenzuela](https://www.youtube.com/watch?v=u92NLvUI2_Q)
 - [Random, de la guerra, Reddit y publicando en Medium](https://www.youtube.com/watch?v=zcQgQ80B-to)
-- [Plot Millions of Reddit Comments](https://medium.com/dataandsets/plot-millions-of-reddit-comments-7b0928924969?source=rss-dc9b65f700a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
