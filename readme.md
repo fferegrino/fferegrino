@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Cómo se trabaja en una FAANG, platicando con Alan Chávez](https://www.youtube.com/watch?v=yYJBAikcsjM)
 - [Platicando DE TODO con Diana Martínez](https://www.youtube.com/watch?v=X2RLgj4Xmts)
 - [Mis herrramientas para progarmar](https://www.youtube.com/watch?v=VGw9SP-ILCE)
 - [Descarga de datos de Reddit](https://feregri.no/descarga-de-datos-de-reddit)
 - [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/dataandsets/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
-- [DuckTales - Por qué ya no hay genios y tecnosoluciones](https://www.youtube.com/watch?v=vzTRjHzmmCE)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
