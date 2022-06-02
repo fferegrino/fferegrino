@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Armando la sonda Ulysses de LEGO](https://www.youtube.com/watch?v=XwkGAnrLXxI)
 - [Machine Learning Engineering in Action – Viernes de Estudio](https://www.youtube.com/watch?v=A7pdCMNeoes)
 - [Cómo se trabaja en una FAANG, platicando con Alan Chávez](https://www.youtube.com/watch?v=yYJBAikcsjM)
 - [Platicando DE TODO con Diana Martínez](https://www.youtube.com/watch?v=X2RLgj4Xmts)
 - [Mis herrramientas para progarmar](https://www.youtube.com/watch?v=VGw9SP-ILCE)
-- [Descarga de datos de Reddit](https://feregri.no/descarga-de-datos-de-reddit)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
