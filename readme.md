@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Automating Sketch with GitHub Actions](https://dev.to/fferegrino/automating-sketch-with-github-actions-4abf)
 - [Cómo se trabaja en una FAANG, platicando con Alan Chávez](https://www.youtube.com/watch?v=yYJBAikcsjM)
 - [Armando la sonda Ulysses de #LEGO – Jueves Casual](https://www.youtube.com/watch?v=XwkGAnrLXxI)
 - [Platicando DE TODO con Diana Martínez](https://www.youtube.com/watch?v=X2RLgj4Xmts)
 - [Mis herrramientas para progarmar](https://www.youtube.com/watch?v=VGw9SP-ILCE)
-- [Descarga de datos de Reddit](https://feregri.no/descarga-de-datos-de-reddit)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
