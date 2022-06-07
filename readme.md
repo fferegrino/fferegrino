@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Haciendo gráficas estilo GitHub – Martes de Código](https://www.youtube.com/watch?v=UooYgbpc12A)
+- [Haciendo gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=UooYgbpc12A)
 - [Cómo se trabaja en una FAANG, platicando con Alan Chávez](https://www.youtube.com/watch?v=yYJBAikcsjM)
 - [Armando la sonda Ulysses de #LEGO – Jueves Casual](https://www.youtube.com/watch?v=XwkGAnrLXxI)
 - [Platicando DE TODO con Diana Martínez](https://www.youtube.com/watch?v=X2RLgj4Xmts)
