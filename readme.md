@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Estudia conmigo – Machine Learning Engineering in Action](https://www.youtube.com/watch?v=Ur1FtoptHeY)
+- [Leyendo Machine Learning Engineering in Action](https://www.youtube.com/watch?v=Ur1FtoptHeY)
 - [Haciendo gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=UooYgbpc12A)
 - [Cómo se trabaja en una FAANG, platicando con Alan Chávez](https://www.youtube.com/watch?v=yYJBAikcsjM)
 - [Armando la sonda Ulysses de #LEGO – Jueves Casual](https://www.youtube.com/watch?v=XwkGAnrLXxI)
