@@ -15,10 +15,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Platicando con CodinEric sobre ingeniería de datos](https://www.youtube.com/watch?v=cFrI9NmUWGY)
-- [Platicando con CodinEric sobre ingeniería de datos](https://www.youtube.com/watch?v=EICHrQYCp74)
 - [Haciendo gráficas estilo GitHub con Python - Parte 3](https://www.youtube.com/watch?v=sNoK99EhrPc)
 - [Haciendo gráficas estilo GitHub con Python - Parte 2](https://www.youtube.com/watch?v=AkLz7FmvMCg)
 - [Haciendo gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=UooYgbpc12A)
+- [Cómo se trabaja en una FAANG, platicando con Alan Chávez](https://www.youtube.com/watch?v=yYJBAikcsjM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
