@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿La MEJOR forma de LEER libros?](https://www.youtube.com/watch?v=6oKedYsdfbA)
 - [Jueves casual – Nuremberg, Alemania](https://www.youtube.com/watch?v=oGy6GEI12wk)
 - [Platicando con CodinEric sobre ingeniería de datos](https://www.youtube.com/watch?v=cFrI9NmUWGY)
 - [Haciendo gráficas estilo GitHub con Python - Parte 3](https://www.youtube.com/watch?v=sNoK99EhrPc)
 - [Haciendo gráficas estilo GitHub con Python - Parte 2](https://www.youtube.com/watch?v=AkLz7FmvMCg)
-- [Haciendo gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=UooYgbpc12A)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
