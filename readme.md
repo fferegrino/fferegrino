@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Estadística sin lágrimas](https://www.youtube.com/watch?v=OUf1kigIeNQ)
 - [Discovering statistics using R, recomendado.](https://www.youtube.com/watch?v=9yN2RenN0Rg)
 - [Te resumo mis libros de #Python y #DataScience](https://www.youtube.com/watch?v=2ZClxb47Te8)
 - [Haciendo gráficas estilo GitHub con Python - Parte 5](https://www.youtube.com/watch?v=jreMTGvViX8)
 - [Platicando con CodinEric sobre ingeniería de datos](https://www.youtube.com/watch?v=cFrI9NmUWGY)
-- [5 TIPS para incrementar tu productividad](https://www.youtube.com/watch?v=xOoDug1hUB0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
