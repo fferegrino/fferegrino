@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [PyTest y Hubify, gráficas estilo GitHub en Python - Parte 6](https://www.youtube.com/watch?v=rPMcTrG5oeg)
+- [PyTest,  pruebas unitarias y gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=hw6s5PMzkA4)
 - [Estadística sin lágrimas](https://www.youtube.com/watch?v=OUf1kigIeNQ)
 - [Discovering statistics using R, recomendado.](https://www.youtube.com/watch?v=9yN2RenN0Rg)
 - [Te resumo mis libros de #Python y #DataScience](https://www.youtube.com/watch?v=2ZClxb47Te8)
