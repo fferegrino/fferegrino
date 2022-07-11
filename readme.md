@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [PyTest,  pruebas unitarias y gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=hw6s5PMzkA4)
 - [Estadística sin lágrimas](https://www.youtube.com/watch?v=OUf1kigIeNQ)
 - [Discovering statistics using R, recomendado.](https://www.youtube.com/watch?v=9yN2RenN0Rg)
 - [Te resumo mis libros de #Python y #DataScience](https://www.youtube.com/watch?v=2ZClxb47Te8)
 - [Haciendo gráficas estilo GitHub con Python - Parte 5](https://www.youtube.com/watch?v=jreMTGvViX8)
+- [Platicando con CodinEric sobre ingeniería de datos](https://www.youtube.com/watch?v=cFrI9NmUWGY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
