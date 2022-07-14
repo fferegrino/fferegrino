@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Longtermism y fraudes telefónicos - Jueves casual](https://www.youtube.com/watch?v=S2CJ24V3uW8)
+- [Estafas telefónicas y largoplacismo &lpar;?&rpar; - Jueves Casual](https://www.youtube.com/watch?v=S2CJ24V3uW8)
 - [El arte de las #estadísticas](https://www.youtube.com/watch?v=cznriB3KpAw)
 - [PyTest,  pruebas unitarias y gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=hw6s5PMzkA4)
 - [Estadística sin lágrimas](https://www.youtube.com/watch?v=OUf1kigIeNQ)
