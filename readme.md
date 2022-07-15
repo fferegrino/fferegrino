@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Leyendo: Designing Machine Learning Systems #StudyWithMe](https://www.youtube.com/watch?v=j7yNY-_52Mk)
 - [Estafas telefónicas y largoplacismo &lpar;?&rpar; - Jueves Casual](https://www.youtube.com/watch?v=PmvY9tjYBHQ)
 - [El arte de las #estadísticas](https://www.youtube.com/watch?v=cznriB3KpAw)
 - [PyTest,  pruebas unitarias y gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=hw6s5PMzkA4)
 - [Estadística sin lágrimas](https://www.youtube.com/watch?v=OUf1kigIeNQ)
-- [Discovering statistics using R, recomendado.](https://www.youtube.com/watch?v=9yN2RenN0Rg)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
