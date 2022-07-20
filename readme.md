@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Soy afiliado de Twitch 🎉 - Jueves Casual](https://www.youtube.com/watch?v=8X3v1qw3_pM)
 - [Descarga tus datos de #Spotify](https://www.youtube.com/watch?v=p_HDrxTLuqk)
 - [Jugando con mis datos de @Spotify con @Streamlit](https://www.youtube.com/watch?v=72km2YscNhw)
 - [The cartoon guide to #statistics](https://www.youtube.com/watch?v=XOexrYXNhsg)
 - [El arte de las #estadísticas](https://www.youtube.com/watch?v=cznriB3KpAw)
-- [PyTest,  pruebas unitarias y gráficas estilo GitHub con Python](https://www.youtube.com/watch?v=hw6s5PMzkA4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
