@@ -15,10 +15,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Think #Stats](https://www.youtube.com/watch?v=ofUhbds0rLE)
+- [La batalla del siglo](https://www.youtube.com/watch?v=CHisEXSWCbY)
 - [¿Qué puedo hacer con mis datos de #Spotify?](https://www.youtube.com/watch?v=soiHZLVcb9Y)
 - [Soy afiliado de Twitch 🎉 - Jueves Casual](https://www.youtube.com/watch?v=8X3v1qw3_pM)
 - [Descarga tus datos de #Spotify](https://www.youtube.com/watch?v=p_HDrxTLuqk)
-- [Jugando con mis datos de @Spotify con @Streamlit](https://www.youtube.com/watch?v=72km2YscNhw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
