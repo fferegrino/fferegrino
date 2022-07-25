@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Aprendiendo a usar PyScript – EN VIVO](https://www.youtube.com/watch?v=RMmVsmyL67Q)
 - [Think #Stats](https://www.youtube.com/watch?v=ofUhbds0rLE)
 - [La batalla del siglo](https://www.youtube.com/watch?v=CHisEXSWCbY)
 - [¿Qué puedo hacer con mis datos de #Spotify?](https://www.youtube.com/watch?v=soiHZLVcb9Y)
 - [Soy afiliado de Twitch 🎉 - Jueves Casual](https://www.youtube.com/watch?v=8X3v1qw3_pM)
+- [Descarga tus datos de #Spotify](https://www.youtube.com/watch?v=p_HDrxTLuqk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
