@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Recomendaciones de películas indias - Jueves Casual](https://www.youtube.com/watch?v=UqYSxk_dNow)
 - [La batalla del siglo](https://www.youtube.com/watch?v=CHisEXSWCbY)
 - [Practical #Statistics for Data Scientists](https://www.youtube.com/watch?v=aDujE1F2Kx4)
 - [Aprendiendo a usar PyScript – EN VIVO](https://www.youtube.com/watch?v=RMmVsmyL67Q)
 - [Think #Stats](https://www.youtube.com/watch?v=ofUhbds0rLE)
-- [¿Qué puedo hacer con mis datos de #Spotify?](https://www.youtube.com/watch?v=soiHZLVcb9Y)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
