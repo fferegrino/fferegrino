@@ -14,10 +14,10 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [La batalla del siglo](https://www.youtube.com/watch?v=CHisEXSWCbY)
 - [Practical #Statistics for Data Scientists](https://www.youtube.com/watch?v=aDujE1F2Kx4)
 - [Aprendiendo a usar PyScript – EN VIVO](https://www.youtube.com/watch?v=RMmVsmyL67Q)
 - [Think #Stats](https://www.youtube.com/watch?v=ofUhbds0rLE)
-- [La batalla del siglo](https://www.youtube.com/watch?v=CHisEXSWCbY)
 - [¿Qué puedo hacer con mis datos de #Spotify?](https://www.youtube.com/watch?v=soiHZLVcb9Y)
 <!-- BLOG-POST-LIST:END -->
 
