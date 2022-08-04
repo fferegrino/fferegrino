@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://twitter.com/io_exception" target="blank">
-    <img src="https://img.shields.io/twitter/follow/io_exception?logo=twitter&style=for-the-badge" alt="io_exception" />
+    <img src="https://img.shields.io/twitter/follow/feregri_no?logo=twitter&style=for-the-badge" alt="feregri_no" />
   </a>
   <a href="https://www.youtube.com/channel/UC8KCb358oioQMcJ5pUfs8UQ" target="blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC8KCb358oioQMcJ5pUfs8UQ?logo=youtube&style=for-the-badge" alt="io_exception" />
@@ -34,7 +34,7 @@
  - **mind-the-gap** a TFL API client (an a CLI) to interact with the Transport for London API – [Source](https://gitlab.com/fferegrino/mind-the-gap)
  - **london-cycles-db** A scritp to download and save data about the London's cycle network – [Source](https://github.com/fferegrino/london-cycles-db)
  - **asset-downloader** a CLI tool I use to download content from the internet (videos, pictures, svgs) from a variety of sources – [Source](https://gitlab.com/thatcsharpguy/streaming/video/editing-pal)
- - **mañaneras** project to automatically create a (and upload to Kaggle) dataset by scraping a government website – [Source](https://gitlab.com/thatcsharpguy/datasets/mananeras) • [Post (ES)](https://feregri.no/haciendo-web-scraping-desde-gitlab-es)
+ - **mañaneras** project to automatically create a (and upload to Kaggle) dataset by scraping a government website – [Source](https://github.com/fferegrino/mananeras) • [Post (ES)](https://feregri.no/haciendo-web-scraping-desde-gitlab-es)
  - **nprompter** an HTTP-based teleprompter that downloads content from a Notion account – [Source](https://gitlab.com/fferegrino/notion-scripting)
  - **voltorb-flip** A Python-based version of a minigame available in some Pokémon games. – [Source](https://github.com/fferegrino/voltorb-flip)
 
