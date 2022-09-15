@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Entrevista con Naomi Ceder – Pythonista destacada](https://www.youtube.com/watch?v=EMQH6e_-zmg)
 - [Inteligencia artificial SIN MACHINE LEARNING](https://www.youtube.com/watch?v=kl3qxtE7J8Q)
 - [No les recomiendo Think #Bayes](https://www.youtube.com/watch?v=upV6pC4pZ2Y)
 - [Recomendaciones de películas indias - Jueves Casual](https://www.youtube.com/watch?v=UqYSxk_dNow)
 - [La batalla del siglo](https://www.youtube.com/watch?v=CHisEXSWCbY)
-- [Practical #Statistics for Data Scientists](https://www.youtube.com/watch?v=aDujE1F2Kx4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
