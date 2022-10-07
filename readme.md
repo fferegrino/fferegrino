@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [LEGO antes de la presentación del Bootcamp de ML](https://www.youtube.com/watch?v=MwqNbguUk-c)
 - [Trombone Champ, cambio de casa y visita a Madrid](https://www.youtube.com/watch?v=PX5YSBz1e8A)
 - [Entrevista con Naomi Ceder – Pythonista destacada](https://www.youtube.com/watch?v=EMQH6e_-zmg)
 - [Inteligencia artificial SIN MACHINE LEARNING](https://www.youtube.com/watch?v=kl3qxtE7J8Q)
 - [No les recomiendo Think #Bayes](https://www.youtube.com/watch?v=upV6pC4pZ2Y)
-- [Recomendaciones de películas indias - Jueves Casual](https://www.youtube.com/watch?v=UqYSxk_dNow)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
