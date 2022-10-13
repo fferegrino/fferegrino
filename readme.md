@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Platicando con Alex Casarrubias – el don de Alexa](https://www.youtube.com/watch?v=iB92ZqJIjfo)
 - [Entrevista con Naomi Ceder – Pythonista destacada](https://www.youtube.com/watch?v=EMQH6e_-zmg)
 - [Inteligencia artificial SIN MACHINE LEARNING](https://www.youtube.com/watch?v=kl3qxtE7J8Q)
 - [No les recomiendo Think #Bayes](https://www.youtube.com/watch?v=upV6pC4pZ2Y)
 - [Recomendaciones de películas indias - Jueves Casual](https://www.youtube.com/watch?v=UqYSxk_dNow)
+- [La batalla del siglo](https://www.youtube.com/watch?v=CHisEXSWCbY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
