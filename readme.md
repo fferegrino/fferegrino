@@ -14,8 +14,8 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Platicando con Alex Casarrubias – el don de Alexa](https://www.youtube.com/watch?v=W2LNM09ENEA)
 - [Data science from scratch!](https://www.youtube.com/watch?v=-sTPthZiXtk)
-- [Ven a platicar mientras armamos unos LEGOs](https://www.youtube.com/watch?v=blzIt72T9Lc)
 - [Entrevista con Naomi Ceder – Pythonista destacada](https://www.youtube.com/watch?v=EMQH6e_-zmg)
 - [Inteligencia artificial SIN MACHINE LEARNING](https://www.youtube.com/watch?v=kl3qxtE7J8Q)
 - [No les recomiendo Think #Bayes](https://www.youtube.com/watch?v=upV6pC4pZ2Y)
