@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [A programmer&#39;s introduction to mathematics](https://www.youtube.com/watch?v=tOETFHAz_2w)
 - [Platicando con Alex Casarrubias – el don de Alexa](https://www.youtube.com/watch?v=W2LNM09ENEA)
 - [Data science from scratch!](https://www.youtube.com/watch?v=-sTPthZiXtk)
 - [Entrevista con Naomi Ceder – Pythonista destacada](https://www.youtube.com/watch?v=EMQH6e_-zmg)
 - [Inteligencia artificial SIN MACHINE LEARNING](https://www.youtube.com/watch?v=kl3qxtE7J8Q)
-- [No les recomiendo Think #Bayes](https://www.youtube.com/watch?v=upV6pC4pZ2Y)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
