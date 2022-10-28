@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Armando el Hubble - Ven a platicar a Discord](https://www.youtube.com/watch?v=XFASarmMVz0)
 - [¿Se pueden hackear las entrevistas tech?](https://www.youtube.com/watch?v=mh9MVXo4uV4)
 - [Mis herramientas favoritas para CREAR CONTENIDO](https://www.youtube.com/watch?v=5hraEfaLeuM)
 - [Platicando con Alex Casarrubias – el don de Alexa](https://www.youtube.com/watch?v=W2LNM09ENEA)
 - [A programmer&#39;s introduction to mathematics](https://www.youtube.com/watch?v=tOETFHAz_2w)
+- [Data science from scratch!](https://www.youtube.com/watch?v=-sTPthZiXtk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
