@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Lo mejor de OCTUBRE 2022](https://www.youtube.com/watch?v=u-M7jQMhgQM)
 - [Approaching almost any machine learning problem - 👎](https://www.youtube.com/watch?v=asIRD_0hQcI)
 - [Python for data analysis](https://www.youtube.com/watch?v=4J2SnpJ1ii0)
 - [¿Se pueden hackear las entrevistas tech?](https://www.youtube.com/watch?v=mh9MVXo4uV4)
 - [Mis herramientas favoritas para CREAR CONTENIDO](https://www.youtube.com/watch?v=5hraEfaLeuM)
-- [Platicando con Alex Casarrubias – el don de Alexa](https://www.youtube.com/watch?v=W2LNM09ENEA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
