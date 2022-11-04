@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [The Hundred-Page Machine Learning Book 👌](https://www.youtube.com/watch?v=6g69TDr41HM)
 - [Lo mejor de OCTUBRE 2022](https://www.youtube.com/watch?v=u-M7jQMhgQM)
 - [Approaching almost any machine learning problem - 👎](https://www.youtube.com/watch?v=asIRD_0hQcI)
 - [Python for data analysis](https://www.youtube.com/watch?v=4J2SnpJ1ii0)
 - [¿Se pueden hackear las entrevistas tech?](https://www.youtube.com/watch?v=mh9MVXo4uV4)
-- [Mis herramientas favoritas para CREAR CONTENIDO](https://www.youtube.com/watch?v=5hraEfaLeuM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
