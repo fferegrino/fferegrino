@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Entrevista con Charliesbot – Desarrollando para YouTube](https://www.youtube.com/watch?v=zMEY4oFB5PU)
 - [Unboxing de Keychrone K8 y qué está pasando en Twitter](https://www.youtube.com/watch?v=bWEng11C0HA)
 - [The Hundred-Page Machine Learning Book 👌](https://www.youtube.com/watch?v=6g69TDr41HM)
 - [Lo mejor de OCTUBRE 2022](https://www.youtube.com/watch?v=u-M7jQMhgQM)
 - [Approaching almost any machine learning problem - 👎](https://www.youtube.com/watch?v=asIRD_0hQcI)
-- [Python for data analysis](https://www.youtube.com/watch?v=4J2SnpJ1ii0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
