@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Las MEJORES fuetes para PROGRAMAR](https://www.youtube.com/watch?v=R1nDBVClBxU)
+- [Las MEJORES fuentes para PROGRAMAR](https://www.youtube.com/watch?v=R1nDBVClBxU)
 - [¿Qué es programar de acuerdo a Eva Navarro?](https://www.youtube.com/watch?v=d6e-RrwbnDw)
 - [Entrevista con Charliesbot – Desarrollando para YouTube](https://www.youtube.com/watch?v=zMEY4oFB5PU)
 - [Unboxing de Keychrone K8 y qué está pasando en Twitter](https://www.youtube.com/watch?v=bWEng11C0HA)
