@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Las MEJORES fuetes para PROGRAMAR](https://www.youtube.com/watch?v=R1nDBVClBxU)
 - [¿Qué es programar de acuerdo a Eva Navarro?](https://www.youtube.com/watch?v=d6e-RrwbnDw)
 - [Entrevista con Charliesbot – Desarrollando para YouTube](https://www.youtube.com/watch?v=zMEY4oFB5PU)
 - [Unboxing de Keychrone K8 y qué está pasando en Twitter](https://www.youtube.com/watch?v=bWEng11C0HA)
 - [The Hundred-Page Machine Learning Book 👌](https://www.youtube.com/watch?v=6g69TDr41HM)
-- [Lo mejor de OCTUBRE 2022](https://www.youtube.com/watch?v=u-M7jQMhgQM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
