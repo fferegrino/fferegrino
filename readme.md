@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Quieres trabajar en Reino Unido? – TIPS](https://www.youtube.com/watch?v=vOvzV_z3bug)
 - [Entrevista con Charliesbot – Desarrollando para YouTube](https://www.youtube.com/watch?v=zMEY4oFB5PU)
 - [Las MEJORES fuentes para PROGRAMAR](https://www.youtube.com/watch?v=R1nDBVClBxU)
 - [¿Qué es programar de acuerdo a Eva Navarro?](https://www.youtube.com/watch?v=d6e-RrwbnDw)
 - [Unboxing de Keychrone K8 y qué está pasando en Twitter](https://www.youtube.com/watch?v=bWEng11C0HA)
-- [The Hundred-Page Machine Learning Book 👌](https://www.youtube.com/watch?v=6g69TDr41HM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
