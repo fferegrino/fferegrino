@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Por qué le gustó la ciencia de datos a @Yesi Days?](https://www.youtube.com/watch?v=OV1UHBGjhwQ)
 - [¿Quieres trabajar en Reino Unido? – TIPS](https://www.youtube.com/watch?v=vOvzV_z3bug)
 - [Entrevista con Charliesbot – Desarrollando para YouTube](https://www.youtube.com/watch?v=zMEY4oFB5PU)
 - [Las MEJORES fuentes para PROGRAMAR](https://www.youtube.com/watch?v=R1nDBVClBxU)
 - [¿Qué es programar de acuerdo a Eva Navarro?](https://www.youtube.com/watch?v=d6e-RrwbnDw)
-- [Unboxing de Keychrone K8 y qué está pasando en Twitter](https://www.youtube.com/watch?v=bWEng11C0HA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
