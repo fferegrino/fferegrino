@@ -15,10 +15,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Entrevista con Lupe Canaviri](https://www.youtube.com/watch?v=2jdsOXlPeIA)
-- [Entrevista con Lupe Canaviri](https://www.youtube.com/watch?v=zAqppn_4bSE)
 - [6 preguntas que SIEMPRE me hacen sobre CIENCIA de DATOS](https://www.youtube.com/watch?v=DDxlnMnT7Z0)
 - [¿Por qué le gustó la ciencia de datos a @Yesi Days?](https://www.youtube.com/watch?v=OV1UHBGjhwQ)
 - [¿Quieres trabajar en Reino Unido? – TIPS](https://www.youtube.com/watch?v=vOvzV_z3bug)
+- [Entrevista con Charliesbot – Desarrollando para YouTube](https://www.youtube.com/watch?v=zMEY4oFB5PU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
