@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [el MEJOR libro para comenzar con machine learning](https://www.youtube.com/watch?v=XbeI97iMbb8)
 - [Cosas curiosas en Reino Unido](https://www.youtube.com/watch?v=fLTWOeGUU-k)
 - [Applied Text analysis with Python está más o menos](https://www.youtube.com/watch?v=1SYIHUIeX0g)
 - [Envía mensajes de WhatsApp desde Python](https://www.youtube.com/watch?v=CHSQxXibuCQ)
 - [Lo MEJOR de NOVIEMBRE 2022](https://www.youtube.com/watch?v=jqBmBmFyqGM)
-- [Entrevista con Lupe Canaviri](https://www.youtube.com/watch?v=2jdsOXlPeIA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
