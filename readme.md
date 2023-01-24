@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué preguntar en las entrevistas laborales?](https://www.youtube.com/watch?v=pGdWBiO6wiw)
 - [Cosas que te hacen dejar un trabajo](https://www.youtube.com/watch?v=0kNkLZo28UU)
 - [el MEJOR libro para comenzar con machine learning](https://www.youtube.com/watch?v=XbeI97iMbb8)
 - [Cosas curiosas en Reino Unido](https://www.youtube.com/watch?v=fLTWOeGUU-k)
 - [Applied Text analysis with Python está más o menos](https://www.youtube.com/watch?v=1SYIHUIeX0g)
-- [Envía mensajes de WhatsApp desde Python](https://www.youtube.com/watch?v=CHSQxXibuCQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
