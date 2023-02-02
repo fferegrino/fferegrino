@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [POTENCIA tu carrera con este libro de ciencia de datos](https://www.youtube.com/watch?v=49aZfxQep20)
 - [Mis recomendaciones de Enero 2023](https://www.youtube.com/watch?v=U-5hkBPPx_I)
 - [Aprendizaje no supervisado, este libro está más o menos.](https://www.youtube.com/watch?v=vKTU-QhestQ)
 - [¿Qué preguntar en las entrevistas laborales?](https://www.youtube.com/watch?v=pGdWBiO6wiw)
 - [Cosas que te hacen dejar un trabajo](https://www.youtube.com/watch?v=0kNkLZo28UU)
-- [el MEJOR libro para comenzar con machine learning](https://www.youtube.com/watch?v=XbeI97iMbb8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
