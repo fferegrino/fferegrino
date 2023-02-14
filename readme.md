@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Consejos para Elevar tu Carrera como Programador](https://www.youtube.com/watch?v=0VcnBMsqp_M)
 - [Entrevista con Matias Baldanza](https://www.youtube.com/watch?v=JkD2MLCjTk8)
 - [Tu primer curso de MACHINE LEARNING &lpar;matemático&rpar;](https://www.youtube.com/watch?v=rcAIjAUOjIw)
 - [2023: Un vistazo a mi espacio de trabajo](https://www.youtube.com/watch?v=8W6MAURZ1ew)
 - [POTENCIA tu carrera con este libro de ciencia de datos](https://www.youtube.com/watch?v=49aZfxQep20)
-- [Mis recomendaciones de Enero 2023](https://www.youtube.com/watch?v=U-5hkBPPx_I)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
