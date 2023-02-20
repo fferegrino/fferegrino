@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Esta gráfica te está mintiendo](https://www.youtube.com/watch?v=UUUcIVk4yec)
 - [Entrevista con Matias Baldanza](https://www.youtube.com/watch?v=JkD2MLCjTk8)
 - [Entrevista con Hanna Oktaba](https://www.youtube.com/watch?v=xtbR6ElqD6M)
 - [7 Consejos para Elevar tu Carrera como Programador](https://www.youtube.com/watch?v=0VcnBMsqp_M)
 - [Tu primer curso de MACHINE LEARNING &lpar;matemático&rpar;](https://www.youtube.com/watch?v=rcAIjAUOjIw)
-- [2023: Un vistazo a mi espacio de trabajo](https://www.youtube.com/watch?v=8W6MAURZ1ew)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
