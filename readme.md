@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Aclaración sobre la gráfica engañosa](https://www.youtube.com/watch?v=y4gJgARKv-E)
 - [¿Team lead o manager? por qué necesitas los dos](https://www.youtube.com/watch?v=W7WaEAZ-rQ8)
 - [Esta gráfica te está mintiendo](https://www.youtube.com/watch?v=UUUcIVk4yec)
 - [Entrevista con Matias Baldanza](https://www.youtube.com/watch?v=JkD2MLCjTk8)
 - [Entrevista con Hanna Oktaba](https://www.youtube.com/watch?v=xtbR6ElqD6M)
-- [7 Consejos para Elevar tu Carrera como Programador](https://www.youtube.com/watch?v=0VcnBMsqp_M)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
