@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Agricultura basada en Datos](https://www.youtube.com/watch?v=dsm-5SVDsSw)
 - [Los filtros de T*kTok están fuera de control](https://www.youtube.com/watch?v=3tUxujsuzs8)
 - [Recomendación: Matemáticas para #MachineLearning](https://www.youtube.com/watch?v=XP7S5qzlf6A)
 - [Entrevista con Hanna Oktaba](https://www.youtube.com/watch?v=xtbR6ElqD6M)
 - [Aclaración sobre la gráfica engañosa](https://www.youtube.com/watch?v=y4gJgARKv-E)
-- [¿Team lead o manager? por qué necesitas los dos](https://www.youtube.com/watch?v=W7WaEAZ-rQ8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
