@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Febrero 2023: mis recomendaciones](https://www.youtube.com/watch?v=hkd3HfiH9v0)
 - [&quot;El Bishop&quot;: Pattern matching and machine learning](https://www.youtube.com/watch?v=FE8hT84M6eU)
 - [Agricultura basada en Datos](https://www.youtube.com/watch?v=dsm-5SVDsSw)
 - [Los filtros de T*kTok están fuera de control](https://www.youtube.com/watch?v=3tUxujsuzs8)
 - [Recomendación: Matemáticas para #MachineLearning](https://www.youtube.com/watch?v=XP7S5qzlf6A)
-- [Entrevista con Hanna Oktaba](https://www.youtube.com/watch?v=xtbR6ElqD6M)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
