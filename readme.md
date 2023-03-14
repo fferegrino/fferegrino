@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Tus jefes no son tus papás: porqué tu trabajo no es tu familia](https://www.youtube.com/watch?v=rv9opRs_UQc)
 - [Otra recomendación: The elements of statistical learning](https://www.youtube.com/watch?v=S97fBIuoDWc)
 - [Febrero 2023: mis recomendaciones](https://www.youtube.com/watch?v=hkd3HfiH9v0)
 - [&quot;El Bishop&quot;: Pattern matching and machine learning](https://www.youtube.com/watch?v=FE8hT84M6eU)
 - [Agricultura basada en Datos](https://www.youtube.com/watch?v=dsm-5SVDsSw)
-- [Los filtros de T*kTok están fuera de control](https://www.youtube.com/watch?v=3tUxujsuzs8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
