@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Platicando con Gwyneth Peña-Siguenza @MadeByGPS](https://www.youtube.com/watch?v=-fEvNSHyX38)
 - [Machine Learning: Una perspectiva probabilística](https://www.youtube.com/watch?v=KCLGZGInoyo)
 - [Te están mintiendo: porqué tu trabajo no es tu familia](https://www.youtube.com/watch?v=rv9opRs_UQc)
 - [Otra recomendación: The elements of statistical learning](https://www.youtube.com/watch?v=S97fBIuoDWc)
 - [Febrero 2023: mis recomendaciones](https://www.youtube.com/watch?v=hkd3HfiH9v0)
-- [&quot;El Bishop&quot;: Pattern matching and machine learning](https://www.youtube.com/watch?v=FE8hT84M6eU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
