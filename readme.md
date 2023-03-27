@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Entrevista con Elena Torró](https://www.youtube.com/watch?v=CkdEUaxJb14)
 - [Entrevista con Gwyneth Peña-Siguenza @MadeByGPS](https://www.youtube.com/watch?v=-fEvNSHyX38)
 - [Llévate la entrevista a casa: Los take-home assignments](https://www.youtube.com/watch?v=DhQGms4lk4k)
 - [Machine Learning: Una perspectiva probabilística](https://www.youtube.com/watch?v=KCLGZGInoyo)
 - [Te están mintiendo: porqué tu trabajo no es tu familia](https://www.youtube.com/watch?v=rv9opRs_UQc)
-- [Otra recomendación: The elements of statistical learning](https://www.youtube.com/watch?v=S97fBIuoDWc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
