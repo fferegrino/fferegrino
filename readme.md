@@ -15,10 +15,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [¿ChatGPT es mi amigo? – cómo lo uso día a día](https://www.youtube.com/watch?v=4wYptn_mBiw)
-- [Entrevista con Elena Torró](https://www.youtube.com/watch?v=CkdEUaxJb14)
 - [Entrevista con Gwyneth Peña-Siguenza @MadeByGPS](https://www.youtube.com/watch?v=-fEvNSHyX38)
 - [Llévate la entrevista a casa: Los take-home assignments](https://www.youtube.com/watch?v=DhQGms4lk4k)
 - [Machine Learning: Una perspectiva probabilística](https://www.youtube.com/watch?v=KCLGZGInoyo)
+- [Te están mintiendo: porqué tu trabajo no es tu familia](https://www.youtube.com/watch?v=rv9opRs_UQc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
