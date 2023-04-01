@@ -17,7 +17,7 @@
 - [Entrevista con Elena Torró](https://www.youtube.com/watch?v=CkdEUaxJb14)
 - [¿ChatGPT es mi amigo? – cómo lo uso día a día](https://www.youtube.com/watch?v=4wYptn_mBiw)
 - [Entrevista con Gwyneth Peña-Siguenza @MadeByGPS](https://www.youtube.com/watch?v=-fEvNSHyX38)
-- [Llévate la entrevista a casa: Los take-home assignments](https://www.youtube.com/watch?v=DhQGms4lk4k)
+- [¿Entrevista para científico de datos?](https://www.youtube.com/watch?v=DhQGms4lk4k)
 - [Machine Learning: Una perspectiva probabilística](https://www.youtube.com/watch?v=KCLGZGInoyo)
 <!-- BLOG-POST-LIST:END -->
 
