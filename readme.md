@@ -14,11 +14,10 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Entrevista con Elena Torró](https://www.youtube.com/watch?v=CkdEUaxJb14)
-- [¿ChatGPT es mi amigo? – cómo lo uso día a día](https://www.youtube.com/watch?v=4wYptn_mBiw)
-- [Entrevista con Gwyneth Peña-Siguenza @MadeByGPS](https://www.youtube.com/watch?v=-fEvNSHyX38)
-- [¿Entrevista para científico de datos?](https://www.youtube.com/watch?v=DhQGms4lk4k)
-- [Machine Learning: Una perspectiva probabilística](https://www.youtube.com/watch?v=KCLGZGInoyo)
+- [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/dataandsets/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
+- [Plot Millions of Reddit Comments](https://medium.com/dataandsets/plot-millions-of-reddit-comments-7b0928924969?source=rss-dc9b65f700a3------2)
+- [Download Data From Reddit Using Python](https://medium.com/dataandsets/download-data-from-reddit-using-python-67250ab55d8?source=rss-dc9b65f700a3------2)
+- [Te cuento qué es MLOps](https://medium.com/tacosdedatos/te-cuento-qu%C3%A9-es-mlops-3409055a9741?source=rss-dc9b65f700a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
