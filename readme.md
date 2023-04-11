@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Features: el combustible de machine learning](https://www.youtube.com/watch?v=pz-4UBNbJCA)
 - [Te reconiendo este libro de Deep Learning #](https://www.youtube.com/watch?v=c30Z8ATe6gw)
 - [Marzo 2023: El mes de abandonar libros](https://www.youtube.com/watch?v=NZ6OeFrBhTc)
 - [Entrevista con Elena Torró](https://www.youtube.com/watch?v=CkdEUaxJb14)
 - [¿ChatGPT es mi amigo? – cómo lo uso día a día](https://www.youtube.com/watch?v=4wYptn_mBiw)
-- [Entrevista con Gwyneth Peña-Siguenza @MadeByGPS](https://www.youtube.com/watch?v=-fEvNSHyX38)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
