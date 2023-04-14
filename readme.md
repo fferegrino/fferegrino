@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [So… what is MLOps?](https://medium.com/dataandsets/so-what-is-mlops-9d67e26433ae?source=rss-dc9b65f700a3------2)
 - [Storytelling with data. Recomendación.](https://www.youtube.com/watch?v=Tl4TrBvCmxU)
 - [Features: el combustible de machine learning](https://www.youtube.com/watch?v=pz-4UBNbJCA)
 - [Te reconiendo este libro de Deep Learning #](https://www.youtube.com/watch?v=c30Z8ATe6gw)
 - [Marzo 2023: El mes de abandonar libros](https://www.youtube.com/watch?v=NZ6OeFrBhTc)
-- [Entrevista con Elena Torró](https://www.youtube.com/watch?v=CkdEUaxJb14)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
