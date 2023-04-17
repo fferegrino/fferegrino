@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [My MLOps bookshelf](https://feregrino.medium.com/my-mlops-bookshelf-c27f6e29370d?source=rss-dc9b65f700a3------2)
 - [So… what is MLOps?](https://medium.com/softwareydata/so-what-is-mlops-9d67e26433ae?source=rss-dc9b65f700a3------2)
 - [Storytelling with data. Recomendación.](https://www.youtube.com/watch?v=Tl4TrBvCmxU)
 - [Features: el combustible de machine learning](https://www.youtube.com/watch?v=pz-4UBNbJCA)
 - [Te reconiendo este libro de Deep Learning #](https://www.youtube.com/watch?v=c30Z8ATe6gw)
-- [Marzo 2023: El mes de abandonar libros](https://www.youtube.com/watch?v=NZ6OeFrBhTc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
