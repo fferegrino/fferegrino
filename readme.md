@@ -16,9 +16,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How charts lie | Recomendación de libros](https://www.youtube.com/watch?v=G3S0mJC7G6A)
 - [Petróleo y la ciencia de datos](https://www.youtube.com/watch?v=gAJ94Ugw9j8)
-- [My MLOps bookshelf](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d?source=rss-dc9b65f700a3------2)
-- [So… what is MLOps?](https://medium.com/softwareydata/so-what-is-mlops-9d67e26433ae?source=rss-dc9b65f700a3------2)
 - [Storytelling with data. Recomendación](https://www.youtube.com/watch?v=Tl4TrBvCmxU)
+- [Features: el combustible de machine learning](https://www.youtube.com/watch?v=pz-4UBNbJCA)
+- [Te recomiendo este libro de Deep Learning #](https://www.youtube.com/watch?v=c30Z8ATe6gw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
