@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Abril 2023: Pocas cosas para compartir](https://www.youtube.com/watch?v=HGkFl_3NNP8)
 - [Deep learning with Python | Recomendación](https://www.youtube.com/watch?v=VGfTpi2Vmzo)
 - [Aprendizaje federado: el poder de la colaboración](https://www.youtube.com/watch?v=omskKuDui1g)
 - [How charts lie | Recomendación de libros](https://www.youtube.com/watch?v=G3S0mJC7G6A)
 - [Petróleo y la ciencia de datos](https://www.youtube.com/watch?v=gAJ94Ugw9j8)
-- [My MLOps bookshelf](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d?source=rss-dc9b65f700a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
