@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Código libre como negocio: Las Open Core Companies](https://www.youtube.com/watch?v=GlU_pnHkt_w)
 - [Natural Language Processing with PyTorch](https://www.youtube.com/watch?v=-YuyG6dsOAI)
 - [Feature stores: un concepto de MLOps](https://www.youtube.com/watch?v=P0Vz8rCAJQc)
 - [fastai &amp; PyTorch, recomendación de libro.](https://www.youtube.com/watch?v=6A3sBEWoLf0)
 - [Abril 2023: Pocas cosas para compartir](https://www.youtube.com/watch?v=HGkFl_3NNP8)
-- [Deep learning with Python | Recomendación](https://www.youtube.com/watch?v=VGfTpi2Vmzo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
