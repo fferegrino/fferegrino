@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [El día en que las mujeres dejaron de programar](https://www.youtube.com/watch?v=tLpARa6mD5A)
 - [Deep Learning Generativo explicado en un libro buenísimo. Recomendado.](https://www.youtube.com/watch?v=hOK2rVtDAjI)
 - [Código libre como negocio: Las Open Core Companies](https://www.youtube.com/watch?v=GlU_pnHkt_w)
 - [Natural Language Processing with PyTorch](https://www.youtube.com/watch?v=-YuyG6dsOAI)
 - [Feature stores: un concepto de MLOps](https://www.youtube.com/watch?v=P0Vz8rCAJQc)
-- [fastai &amp; PyTorch, recomendación de libro.](https://www.youtube.com/watch?v=6A3sBEWoLf0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
