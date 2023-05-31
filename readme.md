@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [La ciencia de datos en los supermercados](https://www.youtube.com/watch?v=QnXdNgCp6sQ)
 - [El día en que las mujeres dejaron de programar](https://www.youtube.com/watch?v=tLpARa6mD5A)
 - [Deep Learning Generativo explicado en un libro buenísimo. Recomendado.](https://www.youtube.com/watch?v=hOK2rVtDAjI)
 - [Código libre como negocio: Las Open Core Companies](https://www.youtube.com/watch?v=GlU_pnHkt_w)
 - [Natural Language Processing with PyTorch](https://www.youtube.com/watch?v=-YuyG6dsOAI)
-- [Feature stores: un concepto de MLOps](https://www.youtube.com/watch?v=P0Vz8rCAJQc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
