@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué es una API? ¿Por qué está en todos lados?](https://www.youtube.com/watch?v=254QoZ03RgA)
 - [¿Y tú, cuánto debes?](https://www.youtube.com/watch?v=7xT3Ig5R86Y)
 - [Recomendación: Introducing MLOps](https://www.youtube.com/watch?v=osY2H_rR_2A)
 - [Mayo 2023: Vacaciones](https://www.youtube.com/watch?v=Urmgouf2674)
 - [La ciencia de datos en los supermercados](https://www.youtube.com/watch?v=QnXdNgCp6sQ)
-- [El día en que las mujeres dejaron de programar](https://www.youtube.com/watch?v=tLpARa6mD5A)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
