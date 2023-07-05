@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Junio 2023: Hora de leer trilogías](https://www.youtube.com/watch?v=V0WrDweJ0BQ)
 - [¿Dejé la ciencia de datos?](https://www.youtube.com/watch?v=AJsHIFAuRWQ)
 - [¿Qué es una API? ¿Por qué está en todos lados?](https://www.youtube.com/watch?v=254QoZ03RgA)
 - [¿Y tú, cuánto debes?](https://www.youtube.com/watch?v=7xT3Ig5R86Y)
 - [Recomendación: Introducing MLOps](https://www.youtube.com/watch?v=osY2H_rR_2A)
-- [Mayo 2023: Vacaciones](https://www.youtube.com/watch?v=Urmgouf2674)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
