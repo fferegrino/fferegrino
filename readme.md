@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Mi inspiración para volverme MLOps](https://www.youtube.com/watch?v=8EH4NCRWIbo)
 - [The two kinds of MLOps engineers](https://medium.com/softwareydata/the-two-kinds-of-mlops-engineers-66eee94e70f3?source=rss-dc9b65f700a3------2)
 - [Mi RECOMENDACIÓN sobre Kaggle](https://www.youtube.com/watch?v=HshHQuyScUY)
 - [Junio 2023: Hora de leer trilogías](https://www.youtube.com/watch?v=V0WrDweJ0BQ)
 - [¿Dejé la ciencia de datos?](https://www.youtube.com/watch?v=AJsHIFAuRWQ)
-- [¿Qué es una API? ¿Por qué está en todos lados?](https://www.youtube.com/watch?v=254QoZ03RgA)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
