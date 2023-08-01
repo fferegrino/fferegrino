@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué es APRENDER EN EL TRABAJO?](https://www.youtube.com/watch?v=iWcPoF3ecsI)
 - [Construyendo con ciencia de datos y machine learning](https://www.youtube.com/watch?v=IJqMRE_YXZ0)
 - [Un buen glosario de #MachineLearning avanzado](https://www.youtube.com/watch?v=sErsqiQ9X8U)
 - [Los dos tipos de MLOps](https://www.youtube.com/watch?v=Elt0L1ZQWaY)
 - [Mi inspiración para volverme MLOps](https://www.youtube.com/watch?v=8EH4NCRWIbo)
-- [The two kinds of MLOps engineers](https://medium.com/softwareydata/the-two-kinds-of-mlops-engineers-66eee94e70f3?source=rss-dc9b65f700a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
