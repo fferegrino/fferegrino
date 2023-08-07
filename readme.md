@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Design Patterns: buenísimo libro de ML](https://www.youtube.com/watch?v=HLuFhk5DA0Q)
 - [¿Qué es APRENDER EN EL TRABAJO?](https://www.youtube.com/watch?v=iWcPoF3ecsI)
 - [Construyendo con ciencia de datos y machine learning](https://www.youtube.com/watch?v=IJqMRE_YXZ0)
 - [Un buen glosario de #MachineLearning avanzado](https://www.youtube.com/watch?v=sErsqiQ9X8U)
 - [Los dos tipos de MLOps](https://www.youtube.com/watch?v=Elt0L1ZQWaY)
-- [Mi inspiración para volverme MLOps](https://www.youtube.com/watch?v=8EH4NCRWIbo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
