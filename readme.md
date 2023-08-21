@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [No compres este libro: Practical MLOps #mlops](https://www.youtube.com/watch?v=JC2Kw5G5rsQ)
 - [ACADEMIA vs INDUSTRIA, diferencias en machine learning.](https://www.youtube.com/watch?v=8IIDKH7zh5Y)
 - [Julio 2023: Más trilogías](https://www.youtube.com/watch?v=OC5cSGVaV8c)
 - [Machine Learning Design Patterns: buenísimo libro de ML](https://www.youtube.com/watch?v=HLuFhk5DA0Q)
 - [¿Qué es APRENDER EN EL TRABAJO?](https://www.youtube.com/watch?v=iWcPoF3ecsI)
-- [Construyendo con ciencia de datos y machine learning](https://www.youtube.com/watch?v=IJqMRE_YXZ0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
