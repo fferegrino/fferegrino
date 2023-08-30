@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Así desarrollan las grandes compañías](https://www.youtube.com/watch?v=covq1BtbwII)
 - [Lee solo DOS CAPÍTULOS de este libro sobre #cienciadedatos](https://www.youtube.com/watch?v=oyjgK0plTtw)
 - [Consigue un mejor salario - Tips](https://www.youtube.com/watch?v=A4aBAjMEUWM)
 - [No compres este libro: Practical MLOps #mlops](https://www.youtube.com/watch?v=JC2Kw5G5rsQ)
 - [ACADEMIA vs INDUSTRIA, diferencias en machine learning.](https://www.youtube.com/watch?v=8IIDKH7zh5Y)
-- [Julio 2023: Más trilogías](https://www.youtube.com/watch?v=OC5cSGVaV8c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
