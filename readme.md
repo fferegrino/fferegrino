@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [agosto 2023 Final](https://www.youtube.com/watch?v=V4oKZlg-2Fo)
 - [Machine learning: ¿Qué es lo que aprende la computadora?](https://www.youtube.com/watch?v=cpFEHkCDfqw)
 - [Así desarrollan las grandes compañías](https://www.youtube.com/watch?v=covq1BtbwII)
 - [Lee solo DOS CAPÍTULOS de este libro sobre #cienciadedatos](https://www.youtube.com/watch?v=oyjgK0plTtw)
 - [Consigue un mejor salario - Tips](https://www.youtube.com/watch?v=A4aBAjMEUWM)
-- [No compres este libro: Practical MLOps #mlops](https://www.youtube.com/watch?v=JC2Kw5G5rsQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
