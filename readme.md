@@ -16,9 +16,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [The 7 habits of highly effective data](https://medium.com/softwareydata/the-7-habits-of-highly-effective-data-39b6ee285126?source=rss-dc9b65f700a3------2)
 - [Terminando trilogías: Agosto 2023](https://www.youtube.com/watch?v=V4oKZlg-2Fo)
-- [Machine learning: ¿Qué es lo que aprende la computadora?](https://www.youtube.com/watch?v=cpFEHkCDfqw)
 - [Así desarrollan las grandes compañías](https://www.youtube.com/watch?v=covq1BtbwII)
 - [Lee solo DOS CAPÍTULOS de este libro sobre #cienciadedatos](https://www.youtube.com/watch?v=oyjgK0plTtw)
+- [Consigue un mejor salario - Tips](https://www.youtube.com/watch?v=A4aBAjMEUWM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
