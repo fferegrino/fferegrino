@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Ciencia de datos en el fútbol](https://www.youtube.com/watch?v=LdcYMHGcz2A)
 - [EVÍTALO a menos que...](https://www.youtube.com/watch?v=Rr-lr-1FIIk)
 - [Curso: introducción visual a Git con GitHub y GitKraken](https://www.youtube.com/watch?v=u1SjoFZiTJ4)
 - [El mejor libro de Python intermedio](https://www.youtube.com/watch?v=LPa4GwPa0WE)
 - [The 7 habits of highly effective data](https://medium.com/softwareydata/the-7-habits-of-highly-effective-data-39b6ee285126?source=rss-dc9b65f700a3------2)
-- [Terminando trilogías: Agosto 2023](https://www.youtube.com/watch?v=V4oKZlg-2Fo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
