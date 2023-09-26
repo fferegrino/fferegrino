@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Trabajando en MAIN? - Trunk based development.](https://www.youtube.com/watch?v=PtprqRH7EDQ)
 - [Se ve prometedor,  pero...](https://www.youtube.com/watch?v=TUY7wHvT5c0)
 - [Ciencia de datos en el fútbol](https://www.youtube.com/watch?v=LdcYMHGcz2A)
 - [EVÍTALO a menos que...](https://www.youtube.com/watch?v=Rr-lr-1FIIk)
 - [Curso: introducción visual a Git con GitHub y GitKraken](https://www.youtube.com/watch?v=u1SjoFZiTJ4)
-- [El mejor libro de Python intermedio](https://www.youtube.com/watch?v=LPa4GwPa0WE)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
