@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [De vacaciones: Septiembre 2023](https://www.youtube.com/watch?v=iCOh0s-Si5c)
 - [Imperdible: Machine Learning Engineering in Action](https://www.youtube.com/watch?v=DZwej84eYVc)
 - [¿Trabajando en MAIN? - Trunk based development.](https://www.youtube.com/watch?v=PtprqRH7EDQ)
 - [Se ve prometedor,  pero...](https://www.youtube.com/watch?v=TUY7wHvT5c0)
 - [Ciencia de datos en el fútbol](https://www.youtube.com/watch?v=LdcYMHGcz2A)
-- [EVÍTALO a menos que...](https://www.youtube.com/watch?v=Rr-lr-1FIIk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
