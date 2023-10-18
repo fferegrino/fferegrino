@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [CIBERSEGURIDAD con ciencia de datos](https://www.youtube.com/watch?v=v-jgh6fBPXw)
 - [Este me DECEPCIONÓ, Machine Learning Systems](https://www.youtube.com/watch?v=dLd27pHfOZY)
 - [¿Alternativas a Kaggle?](https://www.youtube.com/watch?v=uESu1UAExu8)
 - [De vacaciones: Septiembre 2023](https://www.youtube.com/watch?v=iCOh0s-Si5c)
 - [Imperdible: Machine Learning Engineering in Action](https://www.youtube.com/watch?v=DZwej84eYVc)
-- [¿Trabajando en MAIN? - Trunk based development.](https://www.youtube.com/watch?v=PtprqRH7EDQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
