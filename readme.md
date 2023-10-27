@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Cómo predecir huracanes? #otis](https://www.youtube.com/watch?v=xX-aKVuGUdw)
 - [Almacenamiento de datos para análisis](https://www.youtube.com/watch?v=OMiW7S3qkoM)
 - [Building #MachineLearning Pipelines: Mejor espérate a la segunda edición](https://www.youtube.com/watch?v=2-lsJsfT2vo)
 - [CIBERSEGURIDAD con ciencia de datos](https://www.youtube.com/watch?v=v-jgh6fBPXw)
 - [Este me DECEPCIONÓ, Machine Learning Systems](https://www.youtube.com/watch?v=dLd27pHfOZY)
-- [¿Alternativas a Kaggle?](https://www.youtube.com/watch?v=uESu1UAExu8)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
