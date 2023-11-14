@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [The One Piece: Octubre 2023](https://www.youtube.com/watch?v=YUmL0NbDZZo)
 - [Machine Learning Engineering with Python está más o menos](https://www.youtube.com/watch?v=OHU5i0i7Bvg)
 - [La ciencia de datos en el menú](https://www.youtube.com/watch?v=98SXlOlP8ZE)
 - [¿Aprendiendo de tus errores?](https://www.youtube.com/watch?v=aofQOT22Ris)
 - [¿Cómo predecir huracanes? #otis](https://www.youtube.com/watch?v=xX-aKVuGUdw)
-- [Almacenamiento de datos para análisis](https://www.youtube.com/watch?v=OMiW7S3qkoM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
