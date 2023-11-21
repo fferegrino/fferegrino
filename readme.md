@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Manteniendo aviones en el aire: Ciencia de datos en Rolls Royce](https://www.youtube.com/watch?v=pO-WDNtW6pw)
 - [The One Piece: Octubre 2023](https://www.youtube.com/watch?v=YUmL0NbDZZo)
 - [Machine Learning Engineering with Python está más o menos](https://www.youtube.com/watch?v=OHU5i0i7Bvg)
 - [La ciencia de datos en el menú](https://www.youtube.com/watch?v=98SXlOlP8ZE)
 - [¿Aprendiendo de tus errores?](https://www.youtube.com/watch?v=aofQOT22Ris)
-- [¿Cómo predecir huracanes? #otis](https://www.youtube.com/watch?v=xX-aKVuGUdw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
