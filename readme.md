@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Qué es realmente programar con IA? respuesta a @hdeleonnet](https://www.youtube.com/watch?v=oZUVWePwy3g)
 - [Los MEJORES libros para regalar esta navidad](https://www.youtube.com/watch?v=MdF65H9ZWJk)
 - [¿Qué pasa cuando ejecutas SELECT * FROM ...](https://www.youtube.com/watch?v=FK3NmvdfSIQ)
 - [¿Qué proyectos hacer para MLOps?](https://www.youtube.com/watch?v=w4O8UNhkAZw)
 - [Manteniendo aviones en el aire: Ciencia de datos en Rolls Royce](https://www.youtube.com/watch?v=pO-WDNtW6pw)
-- [The One Piece: Octubre 2023](https://www.youtube.com/watch?v=YUmL0NbDZZo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
