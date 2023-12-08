@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7 habits of highly effective data](https://medium.com/softwareydata/the-7-habits-of-highly-effective-data-39b6ee285126?source=rss-dc9b65f700a3------2)
-- [The two kinds of MLOps engineers](https://medium.com/softwareydata/the-two-kinds-of-mlops-engineers-66eee94e70f3?source=rss-dc9b65f700a3------2)
-- [My MLOps bookshelf](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d?source=rss-dc9b65f700a3------2)
-- [So… what is MLOps?](https://medium.com/softwareydata/so-what-is-mlops-9d67e26433ae?source=rss-dc9b65f700a3------2)
-- [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/softwareydata/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
+- [Los mejores REGALOS para esta navidad](https://www.youtube.com/watch?v=dZt0x2104JE)
+- [¿Qué es realmente programar con IA? respuesta a @hdeleonnet](https://www.youtube.com/watch?v=oZUVWePwy3g)
+- [Los MEJORES libros para regalar esta navidad](https://www.youtube.com/watch?v=MdF65H9ZWJk)
+- [¿Qué pasa cuando ejecutas SELECT * FROM ...](https://www.youtube.com/watch?v=FK3NmvdfSIQ)
+- [¿Qué proyectos hacer para MLOps?](https://www.youtube.com/watch?v=w4O8UNhkAZw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
