@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Nunca cambies JavaScript](https://www.youtube.com/watch?v=zjWS48NC4BU)
 - [Los mejores REGALOS para esta navidad](https://www.youtube.com/watch?v=dZt0x2104JE)
 - [¿Qué es realmente programar con IA? respuesta a @hdeleonnet](https://www.youtube.com/watch?v=oZUVWePwy3g)
 - [Los MEJORES libros para regalar esta navidad](https://www.youtube.com/watch?v=MdF65H9ZWJk)
 - [¿Qué pasa cuando ejecutas SELECT * FROM ...](https://www.youtube.com/watch?v=FK3NmvdfSIQ)
-- [¿Qué proyectos hacer para MLOps?](https://www.youtube.com/watch?v=w4O8UNhkAZw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
