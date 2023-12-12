@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial de PROMPT ENGINEERING - Aprende a usar GPT](https://www.youtube.com/watch?v=DELOjYAtbkg)
 - [Nunca cambies JavaScript](https://www.youtube.com/watch?v=zjWS48NC4BU)
 - [Los mejores REGALOS para esta navidad](https://www.youtube.com/watch?v=dZt0x2104JE)
 - [¿Qué es realmente programar con IA? respuesta a @hdeleonnet](https://www.youtube.com/watch?v=oZUVWePwy3g)
 - [Los MEJORES libros para regalar esta navidad](https://www.youtube.com/watch?v=MdF65H9ZWJk)
-- [¿Qué pasa cuando ejecutas SELECT * FROM ...](https://www.youtube.com/watch?v=FK3NmvdfSIQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
