@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Buenísimas APPS para el año que viene](https://www.youtube.com/watch?v=gwcAN8KBcdg)
 - [Cuando publicas una nueva app](https://www.youtube.com/watch?v=QKEz2GLQffQ)
 - [Tutorial de PROMPT ENGINEERING - Aprende a usar GPT](https://www.youtube.com/watch?v=DELOjYAtbkg)
 - [Nunca cambies JavaScript](https://www.youtube.com/watch?v=zjWS48NC4BU)
 - [Los mejores REGALOS para esta navidad](https://www.youtube.com/watch?v=dZt0x2104JE)
-- [¿Qué es realmente programar con IA? respuesta a @hdeleonnet](https://www.youtube.com/watch?v=oZUVWePwy3g)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
