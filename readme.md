@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Fin de año + TechLingo + embeddings](https://www.youtube.com/watch?v=AJxsuF_qZFY)
 - [Buenísimas APPS para el año que viene](https://www.youtube.com/watch?v=gwcAN8KBcdg)
 - [Cuando publicas una nueva app](https://www.youtube.com/watch?v=QKEz2GLQffQ)
 - [Tutorial de PROMPT ENGINEERING - Aprende a usar GPT](https://www.youtube.com/watch?v=DELOjYAtbkg)
 - [Nunca cambies JavaScript](https://www.youtube.com/watch?v=zjWS48NC4BU)
+- [Los mejores REGALOS para esta navidad](https://www.youtube.com/watch?v=dZt0x2104JE)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
