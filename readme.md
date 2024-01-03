@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [La historia de Hugging Face](https://www.youtube.com/watch?v=iHGVi3_USRU)
 - [¡Feliz año nuevo!](https://www.youtube.com/watch?v=HA12nbaWlgE)
 - [Buenísimas APPS para el año que viene](https://www.youtube.com/watch?v=gwcAN8KBcdg)
 - [Cuando publicas una nueva app](https://www.youtube.com/watch?v=QKEz2GLQffQ)
 - [Tutorial de PROMPT ENGINEERING - Aprende a usar GPT](https://www.youtube.com/watch?v=DELOjYAtbkg)
-- [Nunca cambies JavaScript](https://www.youtube.com/watch?v=zjWS48NC4BU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
