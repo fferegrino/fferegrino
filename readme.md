@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [No todo es ChatGPT - Introducción a los modelos de lenguaje](https://www.youtube.com/watch?v=QrZDTah0EIE)
 - [¿Es difícil la carrera de ingeniería de software?](https://www.youtube.com/watch?v=M9brFwURVRI)
 - [¿Me mudo a una GRANJA?](https://www.youtube.com/watch?v=0c6rn-lgg8E)
 - [La historia increíble de Hugging Face | La Revolución en la Inteligencia Artificial](https://www.youtube.com/watch?v=iHGVi3_USRU)
 - [¡Feliz año nuevo!](https://www.youtube.com/watch?v=HA12nbaWlgE)
-- [Buenísimas APPS para el año que viene](https://www.youtube.com/watch?v=gwcAN8KBcdg)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
