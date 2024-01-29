@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7 habits of highly effective data](https://medium.com/softwareydata/the-7-habits-of-highly-effective-data-39b6ee285126?source=rss-dc9b65f700a3------2)
-- [The two kinds of MLOps engineers](https://medium.com/softwareydata/the-two-kinds-of-mlops-engineers-66eee94e70f3?source=rss-dc9b65f700a3------2)
-- [My MLOps bookshelf](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d?source=rss-dc9b65f700a3------2)
-- [So… what is MLOps?](https://medium.com/softwareydata/so-what-is-mlops-9d67e26433ae?source=rss-dc9b65f700a3------2)
-- [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/softwareydata/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
+- [No todo es ChatGPT - Introducción a los modelos de lenguaje](https://www.youtube.com/watch?v=QrZDTah0EIE)
+- [¿Es difícil la carrera de ingeniería de software?](https://www.youtube.com/watch?v=M9brFwURVRI)
+- [¿Me mudo a una GRANJA?](https://www.youtube.com/watch?v=0c6rn-lgg8E)
+- [La historia increíble de Hugging Face | La Revolución en la Inteligencia Artificial](https://www.youtube.com/watch?v=iHGVi3_USRU)
+- [¡Feliz año nuevo!](https://www.youtube.com/watch?v=HA12nbaWlgE)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
