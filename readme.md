@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [MEJORES y BARATOS: Cómo es que RAG está revolucionando los modelos de lenguaje](https://www.youtube.com/watch?v=P2m1kyGjAbA)
 - [La magia del Machine Learning: Embeddings](https://www.youtube.com/watch?v=GKF2cCLhLhY)
 - [No todo es ChatGPT - Introducción a los modelos de lenguaje](https://www.youtube.com/watch?v=QrZDTah0EIE)
 - [¿Es difícil la carrera de ingeniería de software?](https://www.youtube.com/watch?v=M9brFwURVRI)
 - [¿Me mudo a una GRANJA?](https://www.youtube.com/watch?v=0c6rn-lgg8E)
-- [La historia increíble de Hugging Face | La Revolución en la Inteligencia Artificial](https://www.youtube.com/watch?v=iHGVi3_USRU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
