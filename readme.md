@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Me compré una Raspberry Pi 5 | Unboxing](https://www.youtube.com/watch?v=L2tblSgeQHQ)
 - [Películas para científicos de datos](https://www.youtube.com/watch?v=ortvXTnR6Zs)
 - [MEJORES y BARATOS: Cómo es que RAG está revolucionando los modelos de lenguaje](https://www.youtube.com/watch?v=P2m1kyGjAbA)
 - [La magia del Machine Learning: Embeddings](https://www.youtube.com/watch?v=GKF2cCLhLhY)
 - [No todo es ChatGPT - Introducción a los modelos de lenguaje](https://www.youtube.com/watch?v=QrZDTah0EIE)
-- [¿Es difícil la carrera de ingeniería de software?](https://www.youtube.com/watch?v=M9brFwURVRI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
