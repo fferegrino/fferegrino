@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [JK, just kidding | #techlingo](https://www.youtube.com/watch?v=AA73H-F3sJw)
 - [10 Verdades Crudas del Desarrollo de Software](https://www.youtube.com/watch?v=pf6GLY4HgNM)
 - [Me compré una Raspberry Pi 5 | Unboxing](https://www.youtube.com/watch?v=L2tblSgeQHQ)
 - [Películas para científicos de datos](https://www.youtube.com/watch?v=ortvXTnR6Zs)
 - [MEJORES y BARATOS: Cómo es que RAG está revolucionando los modelos de lenguaje](https://www.youtube.com/watch?v=P2m1kyGjAbA)
-- [La magia del Machine Learning: Embeddings](https://www.youtube.com/watch?v=GKF2cCLhLhY)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
