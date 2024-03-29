@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7 habits of highly effective data](https://medium.com/softwareydata/the-7-habits-of-highly-effective-data-39b6ee285126?source=rss-dc9b65f700a3------2)
-- [The two kinds of MLOps engineers](https://medium.com/softwareydata/the-two-kinds-of-mlops-engineers-66eee94e70f3?source=rss-dc9b65f700a3------2)
-- [My MLOps bookshelf](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d?source=rss-dc9b65f700a3------2)
-- [So… what is MLOps?](https://medium.com/softwareydata/so-what-is-mlops-9d67e26433ae?source=rss-dc9b65f700a3------2)
-- [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/softwareydata/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
+- [¿NO saben computación? la escasa alfabetización digital](https://www.youtube.com/watch?v=09BIwwGLWqc)
+- [IA vs Programadores: ¿Me quedo sin trabajo?](https://www.youtube.com/watch?v=Xv4JSC_5hIc)
+- [JK, just kidding | #techlingo](https://www.youtube.com/watch?v=AA73H-F3sJw)
+- [10 Verdades Crudas del Desarrollo de Software](https://www.youtube.com/watch?v=pf6GLY4HgNM)
+- [Me compré una Raspberry Pi 5 | Unboxing](https://www.youtube.com/watch?v=L2tblSgeQHQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
