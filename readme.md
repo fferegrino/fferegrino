@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¡Ciencia de Datos vs Machine Learning! ¿Cuál es la DIFERENCIA?](https://www.youtube.com/watch?v=XGRPd1hiUGs)
 - [Autenticación de dos factores - 2FA | #techlingo](https://www.youtube.com/watch?v=2eYJkRJWyiU)
 - [¿NO saben computación? la escasa alfabetización digital](https://www.youtube.com/watch?v=09BIwwGLWqc)
 - [IA vs Programadores: ¿Me quedo sin trabajo?](https://www.youtube.com/watch?v=Xv4JSC_5hIc)
 - [JK, just kidding | #techlingo](https://www.youtube.com/watch?v=AA73H-F3sJw)
-- [10 Verdades Crudas del Desarrollo de Software](https://www.youtube.com/watch?v=pf6GLY4HgNM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
