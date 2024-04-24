@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [No se vive de YouTube, los logros y las derrotas](https://www.youtube.com/watch?v=ufWRmQ1bSPA)
 - [¿Inglés con acento? NO TE PREOCUPES](https://www.youtube.com/watch?v=M5PEcc9jlLs)
 - [¡Despidos en tu Empresa! ¿Estás REALMENTE Seguro en tu Puesto?](https://www.youtube.com/watch?v=8wrE3Ac4pvM)
 - [¡Ciencia de Datos vs Machine Learning! ¿Cuál es la DIFERENCIA?](https://www.youtube.com/watch?v=XGRPd1hiUGs)
 - [Autenticación de dos factores - 2FA | #techlingo](https://www.youtube.com/watch?v=2eYJkRJWyiU)
-- [¿NO saben computación? la escasa alfabetización digital](https://www.youtube.com/watch?v=09BIwwGLWqc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
