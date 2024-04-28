@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7 habits of highly effective data](https://medium.com/softwareydata/the-7-habits-of-highly-effective-data-39b6ee285126?source=rss-dc9b65f700a3------2)
-- [The two kinds of MLOps engineers](https://medium.com/softwareydata/the-two-kinds-of-mlops-engineers-66eee94e70f3?source=rss-dc9b65f700a3------2)
-- [My MLOps bookshelf](https://medium.com/softwareydata/my-mlops-bookshelf-c27f6e29370d?source=rss-dc9b65f700a3------2)
-- [So… what is MLOps?](https://medium.com/softwareydata/so-what-is-mlops-9d67e26433ae?source=rss-dc9b65f700a3------2)
-- [Visualising a week of London&#39;s rental bicycle network flow](https://medium.com/softwareydata/visualising-a-week-of-the-london-cycle-network-cdc8e60214f8?source=rss-dc9b65f700a3------2)
+- [No se vive de YouTube, los logros y las derrotas](https://www.youtube.com/watch?v=ufWRmQ1bSPA)
+- [¿Inglés con acento? NO TE PREOCUPES](https://www.youtube.com/watch?v=M5PEcc9jlLs)
+- [¡Despidos en tu Empresa! ¿Estás REALMENTE Seguro en tu Puesto?](https://www.youtube.com/watch?v=8wrE3Ac4pvM)
+- [¡Ciencia de Datos vs Machine Learning! ¿Cuál es la DIFERENCIA?](https://www.youtube.com/watch?v=XGRPd1hiUGs)
+- [Autenticación de dos factores - 2FA | #techlingo](https://www.youtube.com/watch?v=2eYJkRJWyiU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
