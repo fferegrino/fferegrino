@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [2038: El año en que la tecnología podría retroceder un siglo](https://www.youtube.com/watch?v=1yH0ldJYpuw)
 - [¿Te hace falta algo en tu carrera? HUMILDAD](https://www.youtube.com/watch?v=0o5v4sCf6Kc)
 - [Q&amp;A sobre MLOps | Te lo cuento todo](https://www.youtube.com/watch?v=P8xY5cGPzAA)
 - [No se vive de YouTube, los logros y las derrotas](https://www.youtube.com/watch?v=ufWRmQ1bSPA)
 - [¿Inglés con acento? NO TE PREOCUPES](https://www.youtube.com/watch?v=M5PEcc9jlLs)
-- [¡Despidos en tu Empresa! ¿Estás REALMENTE Seguro en tu Puesto?](https://www.youtube.com/watch?v=8wrE3Ac4pvM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
