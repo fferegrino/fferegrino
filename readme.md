@@ -15,10 +15,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [RAG en grafos: El poder de los LLMs en datos conectados](https://www.youtube.com/watch?v=5AIOoM3sD2E)
+- [Más allá del pickle: el verdadero resultado de un equipo de aprendizaje automático](https://dev.to/feregri_no/mas-alla-del-pickle-el-verdadero-resultado-de-un-equipo-de-aprendizaje-automatico-4k35)
 - [Beyond the pickle: the true output of a machine learning team](https://medium.com/softwareydata/beyond-the-pickle-the-true-output-of-a-machine-learning-team-1d11c3e0c27f?source=rss-dc9b65f700a3------2)
+- [Face detection in movie trailers](https://dev.to/feregri_no/face-detection-in-movie-trailers-1di0)
 - [¿No te reconocen? HAZTE VISIBLE](https://www.youtube.com/watch?v=11At0XojH6w)
-- [10 cosas ANTES de aprender Python](https://www.youtube.com/watch?v=-dKWJBaS-yc)
-- [¿Apple Intelligence? 🤔 ME ENCANTA](https://www.youtube.com/watch?v=5qLG-6ZqFrQ)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
