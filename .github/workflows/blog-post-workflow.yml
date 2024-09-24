@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path: readme.md
-          feed_list: "https://dev.to/feed/fferegrino, https://feregri.no/feeds/all.atom.xml, https://medium.com/feed/@feregrino, https://www.youtube.com/feeds/videos.xml?channel_id=UC8KCb358oioQMcJ5pUfs8UQ"
+          feed_list: "https://dev.to/feed/feregri_no, https://feregri.no/feeds/all.atom.xml, https://medium.com/feed/@feregrino, https://www.youtube.com/feeds/videos.xml?channel_id=UC8KCb358oioQMcJ5pUfs8UQ"
