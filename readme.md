@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG en grafos: El poder de los LLMs en datos conectados](https://www.youtube.com/watch?v=5AIOoM3sD2E)
 - [Beyond the pickle: the true output of a machine learning team](https://medium.com/softwareydata/beyond-the-pickle-the-true-output-of-a-machine-learning-team-1d11c3e0c27f?source=rss-dc9b65f700a3------2)
 - [¿No te reconocen? HAZTE VISIBLE](https://www.youtube.com/watch?v=11At0XojH6w)
 - [10 cosas ANTES de aprender Python](https://www.youtube.com/watch?v=-dKWJBaS-yc)
 - [¿Apple Intelligence? 🤔 ME ENCANTA](https://www.youtube.com/watch?v=5qLG-6ZqFrQ)
-- [2038: El año en que la tecnología podría retroceder un siglo](https://www.youtube.com/watch?v=1yH0ldJYpuw)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
