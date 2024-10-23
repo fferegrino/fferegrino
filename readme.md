@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluando LLMs – ¿Qué son las &quot;evals&quot; en IA?](https://www.youtube.com/watch?v=nfiat08Mb70)
 - [Data Lakehouses – Warehouse + Lake](https://www.youtube.com/watch?v=3v6JuQMoMnI)
 - [¿Qué significa CYA – Cover your a**?](https://www.youtube.com/watch?v=Dv2veraEoB0)
 - [¿La IA está ARRUINANDO la programación? 🤖💻 | DHH vs. el futuro del código](https://www.youtube.com/watch?v=ETvZclGiT_o)
 - [RAG en grafos: El poder de los LLMs en datos conectados](https://www.youtube.com/watch?v=5AIOoM3sD2E)
-- [Más allá del pickle: el verdadero resultado de un equipo de aprendizaje automático](https://dev.to/feregri_no/mas-alla-del-pickle-el-verdadero-resultado-de-un-equipo-de-aprendizaje-automatico-4k35)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
