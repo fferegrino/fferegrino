@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Te están espiando?](https://www.youtube.com/watch?v=hhz5Fr0Z6ag)
 - [¿¿Y los programadores VIEJOS??](https://www.youtube.com/watch?v=Dnf-rlQO608)
 - [Qué quiere decir CEO #techlingo](https://www.youtube.com/watch?v=YkIql4B4FxI)
 - [Evaluando LLMs – ¿Qué son las &quot;evals&quot; en IA?](https://www.youtube.com/watch?v=nfiat08Mb70)
 - [Data Lakehouses – Warehouse + Lake](https://www.youtube.com/watch?v=3v6JuQMoMnI)
-- [¿Qué significa CYA – Cover your a**?](https://www.youtube.com/watch?v=Dv2veraEoB0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
