@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Si me acuerdo bien... | IIRC](https://www.youtube.com/watch?v=JST9fZ_Ww70)
 - [Brillantes pero odiosos – Los genios insoportables](https://www.youtube.com/watch?v=HwoynL07eXE)
 - [¿Te están espiando?](https://www.youtube.com/watch?v=hhz5Fr0Z6ag)
 - [¿¿Y los programadores VIEJOS??](https://www.youtube.com/watch?v=Dnf-rlQO608)
 - [Qué quiere decir CEO #techlingo](https://www.youtube.com/watch?v=YkIql4B4FxI)
-- [Evaluando LLMs – ¿Qué son las &quot;evals&quot; en IA?](https://www.youtube.com/watch?v=nfiat08Mb70)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
