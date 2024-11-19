@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Por fin dejé Twitter - te cuento por qué](https://www.youtube.com/watch?v=hOlHzw_0ZZ0)
 - [Si me acuerdo bien... | IIRC](https://www.youtube.com/watch?v=JST9fZ_Ww70)
 - [Brillantes pero odiosos – Los genios insoportables](https://www.youtube.com/watch?v=HwoynL07eXE)
 - [¿Te están espiando?](https://www.youtube.com/watch?v=hhz5Fr0Z6ag)
 - [¿¿Y los programadores VIEJOS??](https://www.youtube.com/watch?v=Dnf-rlQO608)
-- [Qué quiere decir CEO #techlingo](https://www.youtube.com/watch?v=YkIql4B4FxI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
