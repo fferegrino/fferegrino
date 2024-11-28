@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [La diferencia crucial entre MLOps y ML Engineer que podría cambiar tu carrera.](https://www.youtube.com/watch?v=HZZ_HHlWJkI)
 - [Usando la API de Bluesky Python + ¡regalos!](https://www.youtube.com/watch?v=uPj9iIq0RJM)
 - [The &quot;everything else&quot; package](https://medium.com/softwareydata/the-everything-else-package-3b88a2aff159?source=rss-dc9b65f700a3------2)
 - [Por fin dejé Twitter - te cuento por qué](https://www.youtube.com/watch?v=hOlHzw_0ZZ0)
 - [Si me acuerdo bien... | IIRC](https://www.youtube.com/watch?v=JST9fZ_Ww70)
-- [Brillantes pero odiosos – Los genios insoportables](https://www.youtube.com/watch?v=HwoynL07eXE)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
