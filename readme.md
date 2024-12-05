@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Peleando contra una inteligencia artificial? - Ciencia de datos en los videojuegos](https://www.youtube.com/watch?v=bob3Mdw2as8)
+- [Así te NERFEAN: La Ciencia de Datos Detrás de los Videojuegos](https://www.youtube.com/watch?v=bob3Mdw2as8)
 - [La diferencia crucial entre MLOps y ML Engineer que podría cambiar tu carrera.](https://www.youtube.com/watch?v=HZZ_HHlWJkI)
 - [Usando la API de Bluesky Python + ¡regalos!](https://www.youtube.com/watch?v=uPj9iIq0RJM)
 - [The &quot;everything else&quot; package](https://medium.com/softwareydata/the-everything-else-package-3b88a2aff159?source=rss-dc9b65f700a3------2)
