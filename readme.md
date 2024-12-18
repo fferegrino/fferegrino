@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping agendado con Python y GitHub Actions | ¡servidor gratis!](https://www.youtube.com/watch?v=omX7uo6lnZs)
 - [Anglicismos: ¿los enemigos del español?](https://www.youtube.com/watch?v=ewcqjT7a7XM)
 - [Así te NERFEAN: La Ciencia de Datos Detrás de los Videojuegos](https://www.youtube.com/watch?v=bob3Mdw2as8)
 - [La diferencia crucial entre MLOps y ML Engineer que podría cambiar tu carrera.](https://www.youtube.com/watch?v=HZZ_HHlWJkI)
 - [Usando la API de Bluesky Python + ¡regalos!](https://www.youtube.com/watch?v=uPj9iIq0RJM)
-- [The &quot;everything else&quot; package](https://medium.com/softwareydata/the-everything-else-package-3b88a2aff159?source=rss-dc9b65f700a3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
