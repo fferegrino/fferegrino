@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [EN VIVO | Publicación de apps a PyPI desde GitHub](https://www.youtube.com/watch?v=83gAHUy5934)
 - [Programando una pequeña app](https://www.youtube.com/watch?v=OzTqQvypX0U)
 - [Web Scraping agendado con Python y GitHub Actions | ¡servidor gratis!](https://www.youtube.com/watch?v=omX7uo6lnZs)
 - [Anglicismos: ¿los enemigos del español?](https://www.youtube.com/watch?v=ewcqjT7a7XM)
 - [Así te NERFEAN: La Ciencia de Datos Detrás de los Videojuegos](https://www.youtube.com/watch?v=bob3Mdw2as8)
-- [La diferencia crucial entre MLOps y ML Engineer que podría cambiar tu carrera.](https://www.youtube.com/watch?v=HZZ_HHlWJkI)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
