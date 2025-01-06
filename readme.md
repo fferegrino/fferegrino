@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
 - [¿Qué es AFAIK?](https://www.youtube.com/watch?v=WwPkx4IngTA)
 - [EN VIVO | Publicación de apps a PyPI desde GitHub](https://www.youtube.com/watch?v=83gAHUy5934)
 - [Programando una pequeña app](https://www.youtube.com/watch?v=OzTqQvypX0U)
 - [Web Scraping agendado con Python y GitHub Actions | ¡servidor gratis!](https://www.youtube.com/watch?v=omX7uo6lnZs)
-- [Anglicismos: ¿los enemigos del español?](https://www.youtube.com/watch?v=ewcqjT7a7XM)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
