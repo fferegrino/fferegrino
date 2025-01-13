@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Lunar Roving Vehicle #lego](https://www.youtube.com/watch?v=ejF416n5hC4)
 - [Understanding &lpar;a bit of&rpar; the Gradle Kotlin DSL](https://dev.to/feregri_no/understanding-a-bit-of-the-gradle-kotlin-dsl-57kg)
 - [El Truco de 5 Minutos que Podría Conseguirte un Ascenso](https://www.youtube.com/watch?v=_bgkrjfkVGM)
 - [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
 - [¿Qué es AFAIK?](https://www.youtube.com/watch?v=WwPkx4IngTA)
-- [EN VIVO | Publicación de apps a PyPI desde GitHub](https://www.youtube.com/watch?v=83gAHUy5934)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
