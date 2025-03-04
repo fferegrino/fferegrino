@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [El fin del trabajo remoto](https://www.youtube.com/watch?v=n9-baqjkfmM)
 - [¿Qué voy a leer este año?](https://www.youtube.com/watch?v=GmGaYyDpm-4)
 - [Lunar Roving Vehicle #lego](https://www.youtube.com/watch?v=ejF416n5hC4)
 - [Understanding &lpar;a bit of&rpar; the Gradle Kotlin DSL](https://dev.to/feregri_no/understanding-a-bit-of-the-gradle-kotlin-dsl-57kg)
 - [El Truco de 5 Minutos que Podría Conseguirte un Ascenso](https://www.youtube.com/watch?v=_bgkrjfkVGM)
-- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
