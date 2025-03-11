@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Merecía ser gol? los GOLES ESPERADOS en el fútbol](https://www.youtube.com/watch?v=3TEQaZlWb2s)
+- [¿Qué son los goles esperados en el futbol?](https://www.youtube.com/watch?v=3TEQaZlWb2s)
 - [El mejor libro de #matemáticas para machine learning](https://www.youtube.com/watch?v=bCKW-uw4kik)
 - [El fin del trabajo remoto](https://www.youtube.com/watch?v=n9-baqjkfmM)
 - [¿Qué voy a leer este año?](https://www.youtube.com/watch?v=GmGaYyDpm-4)
