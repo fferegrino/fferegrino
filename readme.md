@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Dogfooding es la clave para desarrollar software de alta calidad](https://www.youtube.com/watch?v=k-HaNDOMB3Q)
 - [¿Merecía ser gol? así se calculan los goles esperados](https://www.youtube.com/watch?v=3TEQaZlWb2s)
 - [El mejor libro de #matemáticas para machine learning](https://www.youtube.com/watch?v=bCKW-uw4kik)
 - [El fin del trabajo remoto](https://www.youtube.com/watch?v=n9-baqjkfmM)
 - [¿Qué voy a leer este año?](https://www.youtube.com/watch?v=GmGaYyDpm-4)
-- [Lunar Roving Vehicle #lego](https://www.youtube.com/watch?v=ejF416n5hC4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
