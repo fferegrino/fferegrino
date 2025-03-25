@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [El secreto detrás del multijugador online: así funciona](https://www.youtube.com/watch?v=EQOhbjzvTZ0)
 - [Entorno de desarrollo integrado](https://www.youtube.com/watch?v=fdyFiZbuVUA)
 - [La Herramienta que Duplicará tus Oportunidades de Ascenso en 2025](https://www.youtube.com/watch?v=uiITvMKxPdU)
 - [Dogfooding es la clave para desarrollar software de alta calidad](https://www.youtube.com/watch?v=k-HaNDOMB3Q)
 - [¿Merecía ser gol? así se calculan los goles esperados](https://www.youtube.com/watch?v=3TEQaZlWb2s)
-- [El mejor libro de #matemáticas para machine learning](https://www.youtube.com/watch?v=bCKW-uw4kik)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
