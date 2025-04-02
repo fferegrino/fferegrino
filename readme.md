@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding &lpar;a bit of&rpar; the Gradle Kotlin DSL](https://dev.to/feregri_no/understanding-a-bit-of-the-gradle-kotlin-dsl-57kg)
-- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
-- [Más allá del pickle: el verdadero resultado de un equipo de aprendizaje automático](https://dev.to/feregri_no/mas-alla-del-pickle-el-verdadero-resultado-de-un-equipo-de-aprendizaje-automatico-4k35)
-- [Face detection in movie trailers](https://dev.to/feregri_no/face-detection-in-movie-trailers-1di0)
-- [Documenting my pin collection with Segment Anything: Part 4](https://dev.to/feregri_no/documenting-my-pin-collection-with-segment-anything-part-4-3ea2)
+- [¿Conoces la técnica del boyscouting?](https://www.youtube.com/watch?v=4HEEyM-nA_Y)
+- [El secreto del multijugador online: así funciona](https://www.youtube.com/watch?v=EQOhbjzvTZ0)
+- [Entorno de desarrollo integrado](https://www.youtube.com/watch?v=fdyFiZbuVUA)
+- [La Herramienta que Duplicará tus Oportunidades de Ascenso en 2025](https://www.youtube.com/watch?v=uiITvMKxPdU)
+- [Dogfooding es la clave para desarrollar software de alta calidad](https://www.youtube.com/watch?v=k-HaNDOMB3Q)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
