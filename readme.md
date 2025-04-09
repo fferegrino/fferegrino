@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Es Seguro Votar por Internet? Lo Que No Te Cuentan](https://www.youtube.com/watch?v=Q6uHfbQblHU)
 - [Batteries included](https://www.youtube.com/watch?v=iB0NRtQGG3g)
 - [¿Conoces la técnica del boyscouting?](https://www.youtube.com/watch?v=4HEEyM-nA_Y)
 - [El secreto del multijugador online: así funciona](https://www.youtube.com/watch?v=EQOhbjzvTZ0)
 - [Entorno de desarrollo integrado](https://www.youtube.com/watch?v=fdyFiZbuVUA)
-- [La Herramienta que Duplicará tus Oportunidades de Ascenso en 2025](https://www.youtube.com/watch?v=uiITvMKxPdU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
