@@ -16,8 +16,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [¿Cómo funcionan los AirTags? Explicado](https://www.youtube.com/watch?v=bHaU7wfon28)
 - [¿Es Seguro Votar por Internet? Lo Que No Te Cuentan](https://www.youtube.com/watch?v=Q6uHfbQblHU)
-- [Batteries included](https://www.youtube.com/watch?v=iB0NRtQGG3g)
-- [¿Conoces la técnica del boyscouting?](https://www.youtube.com/watch?v=4HEEyM-nA_Y)
+- [Batteries included](https://www.youtube.com/shorts/iB0NRtQGG3g)
+- [¿Conoces la técnica del boyscouting?](https://www.youtube.com/shorts/4HEEyM-nA_Y)
 - [El secreto del multijugador online: así funciona](https://www.youtube.com/watch?v=EQOhbjzvTZ0)
 <!-- BLOG-POST-LIST:END -->
 
