@@ -42,6 +42,7 @@ Additionally, [I write in dev.to](https://dev.to/fferegrino) (mostly in english)
 
 ## Talks and collaborations
 
+ - **Antonio Feregrino - Generating embeddings for Yu-Gi-Oh Cards with NumPy**, a talk I gave at PyData London 2024 – [Link](https://www.youtube.com/watch?v=kYtj7spnppE)
  - **I interview a lot of interesting people**, see the playlist on YouTube – [Link](https://youtube.com/playlist?list=PL6cBnnS2SIgqgBNZtcNSbQCtu0imAypEz)
  - **Herramientas para trabajar con Python en Equipos** a talk I gave at PyCon Latam 2021 – [Link](https://www.youtube.com/watch?v=Btfx9kAE404)
  - **¿Cómo comenzar con Machine Learning?** a friendly chat about machine learning with Hector de León – [Link](https://www.youtube.com/watch?v=ofOj7Ox6dgo)
