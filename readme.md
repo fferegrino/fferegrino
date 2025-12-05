@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Elegí la carrera equivocada — esto es lo que aprendí](https://www.youtube.com/watch?v=VKAC8x7e3zo)
 - [¿NECESITAS la UNIVERSIDAD para ser PROGRAMADOR? Mi experiencia y opinión](https://www.youtube.com/watch?v=WTEo2RLPp7o)
 - [¿Qué es el MCP y cómo mejora los LLMs?](https://www.youtube.com/watch?v=5Ki1oR_6NHA)
 - [¿Cómo funcionan los AirTags? Explicado](https://www.youtube.com/watch?v=bHaU7wfon28)
 - [¿Es Seguro Votar por Internet? Lo Que No Te Cuentan](https://www.youtube.com/watch?v=Q6uHfbQblHU)
-- [Batteries included](https://www.youtube.com/shorts/iB0NRtQGG3g)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
