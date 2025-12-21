@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding &lpar;a bit of&rpar; the Gradle Kotlin DSL](https://dev.to/feregri_no/understanding-a-bit-of-the-gradle-kotlin-dsl-57kg)
-- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
-- [The &quot;everything else&quot; package](https://medium.com/softwareydata/the-everything-else-package-3b88a2aff159?source=rss-dc9b65f700a3------2)
-- [Más allá del pickle: el verdadero resultado de un equipo de aprendizaje automático](https://dev.to/feregri_no/mas-alla-del-pickle-el-verdadero-resultado-de-un-equipo-de-aprendizaje-automatico-4k35)
-- [Beyond the pickle: the true output of a machine learning team](https://medium.com/softwareydata/beyond-the-pickle-the-true-output-of-a-machine-learning-team-1d11c3e0c27f?source=rss-dc9b65f700a3------2)
+- [La historia de cómo &quot;fracasé&quot; en la universidad](https://www.youtube.com/watch?v=VKAC8x7e3zo)
+- [¿NECESITAS la UNIVERSIDAD para ser PROGRAMADOR? Mi experiencia y opinión](https://www.youtube.com/watch?v=WTEo2RLPp7o)
+- [¿Qué es el MCP y cómo mejora los LLMs?](https://www.youtube.com/watch?v=5Ki1oR_6NHA)
+- [¿Cómo funcionan los AirTags? Explicado](https://www.youtube.com/watch?v=bHaU7wfon28)
+- [¿Es Seguro Votar por Internet? Lo Que No Te Cuentan](https://www.youtube.com/watch?v=Q6uHfbQblHU)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
