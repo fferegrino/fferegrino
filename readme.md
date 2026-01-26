@@ -14,7 +14,7 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Nos estamos quedando atrás?](https://www.youtube.com/watch?v=X2LWIjC9vTU)
+- [¿Cuál es la urgencia con la IA?](https://www.youtube.com/watch?v=X2LWIjC9vTU)
 - [IA, burnout y carrera: lo que todo desarrollador debería saber en 2026](https://www.youtube.com/watch?v=aDXy0zYH2sk)
 - [¿Ciencia de Datos en 1969? Así se Eligió Cancún 🤯](https://www.youtube.com/watch?v=TkPQnm8yGHk)
 - [La historia de cómo &quot;fracasé&quot; en la universidad](https://www.youtube.com/watch?v=VKAC8x7e3zo)
