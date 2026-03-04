@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [El streaming de deportes está roto &lpar;y no es culpa de tu internet&rpar;](https://www.youtube.com/watch?v=uMg_2liWVuI)
 - [¿Cuál es la urgencia con la IA?](https://www.youtube.com/watch?v=X2LWIjC9vTU)
 - [IA, burnout y carrera: lo que todo desarrollador debería saber en 2026](https://www.youtube.com/watch?v=aDXy0zYH2sk)
 - [¿Ciencia de Datos en 1969? Así se Eligió Cancún 🤯](https://www.youtube.com/watch?v=TkPQnm8yGHk)
 - [La historia de cómo &quot;fracasé&quot; en la universidad](https://www.youtube.com/watch?v=VKAC8x7e3zo)
+- [¿NECESITAS la UNIVERSIDAD para ser PROGRAMADOR? Mi experiencia y opinión](https://www.youtube.com/watch?v=WTEo2RLPp7o)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
