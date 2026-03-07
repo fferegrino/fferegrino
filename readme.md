@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding &lpar;a bit of&rpar; the Gradle Kotlin DSL](https://dev.to/feregri_no/understanding-a-bit-of-the-gradle-kotlin-dsl-57kg)
-- [Creando un notebook con Jupyter y Kotlin](https://dev.to/feregri_no/creando-un-notebook-con-jupyter-y-kotlin-5g8d)
-- [The &quot;everything else&quot; package](https://medium.com/softwareydata/the-everything-else-package-3b88a2aff159?source=rss-dc9b65f700a3------2)
-- [Más allá del pickle: el verdadero resultado de un equipo de aprendizaje automático](https://dev.to/feregri_no/mas-alla-del-pickle-el-verdadero-resultado-de-un-equipo-de-aprendizaje-automatico-4k35)
-- [Beyond the pickle: the true output of a machine learning team](https://medium.com/softwareydata/beyond-the-pickle-the-true-output-of-a-machine-learning-team-1d11c3e0c27f?source=rss-dc9b65f700a3------2)
+- [El streaming de deportes está roto &lpar;y no es culpa de tu internet&rpar;](https://www.youtube.com/watch?v=uMg_2liWVuI)
+- [¿Cuál es la urgencia con la IA?](https://www.youtube.com/watch?v=X2LWIjC9vTU)
+- [IA, burnout y carrera: lo que todo desarrollador debería saber en 2026](https://www.youtube.com/watch?v=aDXy0zYH2sk)
+- [¿Ciencia de Datos en 1969? Así se Eligió Cancún 🤯](https://www.youtube.com/watch?v=TkPQnm8yGHk)
+- [La historia de cómo &quot;fracasé&quot; en la universidad](https://www.youtube.com/watch?v=VKAC8x7e3zo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
