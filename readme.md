@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Por qué una VPN desbloquea TODO?](https://www.youtube.com/watch?v=M3H709EiolE)
 - [El streaming de deportes está roto &lpar;y no es culpa de tu internet&rpar;](https://www.youtube.com/watch?v=uMg_2liWVuI)
 - [¿Cuál es la urgencia con la IA?](https://www.youtube.com/watch?v=X2LWIjC9vTU)
 - [IA, burnout y carrera: lo que todo desarrollador debería saber en 2026](https://www.youtube.com/watch?v=aDXy0zYH2sk)
 - [¿Ciencia de Datos en 1969? Así se Eligió Cancún 🤯](https://www.youtube.com/watch?v=TkPQnm8yGHk)
-- [La historia de cómo &quot;fracasé&quot; en la universidad](https://www.youtube.com/watch?v=VKAC8x7e3zo)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
