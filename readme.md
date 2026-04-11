@@ -14,11 +14,11 @@
 ## Recent posts and videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Confianza, chisme y poder: cómo manejar relaciones laborales](https://www.youtube.com/watch?v=KgalIf5nnp0)
 - [Te pagan pero tu trabajo no importa](https://www.youtube.com/watch?v=24uyvjfG1lc)
 - [¿Por qué una VPN desbloquea TODO?](https://www.youtube.com/watch?v=M3H709EiolE)
 - [El streaming de deportes está roto &lpar;y no es culpa de tu internet&rpar;](https://www.youtube.com/watch?v=uMg_2liWVuI)
 - [¿Cuál es la urgencia con la IA?](https://www.youtube.com/watch?v=X2LWIjC9vTU)
-- [IA, burnout y carrera: lo que todo desarrollador debería saber en 2026](https://www.youtube.com/watch?v=aDXy0zYH2sk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some of my work
